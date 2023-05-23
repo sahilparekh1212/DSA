@@ -23,64 +23,67 @@ Note For File Names:
 Topics:
 <ul>
     <li>
-        Recursion
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Array" target="_blank">Array</a>
     </li>
     <li>
-        Dynamic Programming
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Recursion" target="_blank">Recursion</a>
     </li>
     <li>
-        Strings
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Dynamic%20Programming" target="_blank">Dynamic Programming</a>
     </li>
     <li>
-        Maths
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Strings" target="_blank">Strings</a>
     </li>
     <li>
-        Greedy
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Maths" target="_blank">Maths</a>
     </li>
     <li>
-        DFS
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Greedy" target="_blank">Greedy</a>
     </li>
     <li>
-        Tree
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/DFS" target="_blank">DFS</a>
     </li>
     <li>
-        Hashing
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Tree" target="_blank">Tree</a>
     </li>
     <li>
-        Binary Search
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Hashing" target="_blank">Hashing</a>
     </li>
     <li>
-        BFS
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Binary%20Search" target="_blank">Binary Search</a>
     </li>
     <li>
-        Two Pointer
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/BFS" target="_blank">BFS</a>
     </li>
     <li>
-        Stack
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Two%20Pointer" target="_blank">Two Pointer</a>
     </li>
     <li>
-        Designing Data Structure
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Stack" target="_blank">Stack</a>
     </li>
     <li>
-        Graph
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Designing%20Data%20Structure" target="_blank">Designing Data Structure</a>
     </li>
     <li>
-        Bit Manipulation
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Graph" target="_blank">Graph</a>
     </li>
     <li>
-        LinkedList
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Bit%20Manipulation" target="_blank">Bit Manipulation</a>
     </li>
     <li>
-        Heap
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/LinkedList" target="_blank">LinkedList</a>
     </li>
     <li>
-        Sliding Window
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Heap" target="_blank">Heap</a>
     </li>
     <li>
-        Trie
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Sliding%20Window" target="_blank">Sliding Window</a>
     </li>
     <li>
-        Segment Tree
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Trie" target="_blank">Trie</a>
+    </li>
+    <li>
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Segment%20Tree" target="_blank">Segment Tree</a>
     </li>
 </ul>
 <hr>
