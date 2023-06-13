@@ -4,7 +4,7 @@ class Solution {
 
         Arrays.fill(primesArr, true);
         int i = 2;
-        while (i <= n / 2) {
+        while (i * i <= n) {
             int ref = i + i;
             while (ref <= n) {
                 if (primesArr[ref]) {
