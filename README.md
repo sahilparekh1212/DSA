@@ -23,6 +23,9 @@ Note For File Names:
 Topics:
 <ul>
     <li>
+        <a href="https://github.com/sahilparekh1212/DSA/tree/main/Sorting" target="_blank">Sorting</a>
+    </li>
+    <li>
         <a href="https://github.com/sahilparekh1212/DSA/tree/main/Array" target="_blank">Array</a>
     </li>
     <li>
