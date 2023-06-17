@@ -1,30 +1,19 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
 class Solution {
 
     public ListNode sortList(ListNode mainHead) {
         return mergeSortList(mainHead);
     }
 
-    private ListNode mergeSortList(ListNode mainHead){
+    private ListNode mergeSortList(ListNode mainHead) {
 
-        if(mainHead==null || mainHead.next==null){
+        if (mainHead == null || mainHead.next == null) {
             return mainHead;
         }
         // divide in 2
-        ListNode slowHead = mainHead, fast=mainHead, slowPrev=null;
+        ListNode slowHead = mainHead, fast = mainHead, slowPrev = null;
 
         // find middle of linked list by slow pointer
-        while(fast!=null && fast.next!=null){
+        while (fast != null && fast.next != null) {
             slowPrev = slowHead;
             slowHead = slowHead.next;
             fast = fast.next.next;
@@ -39,33 +28,33 @@ class Solution {
         // right half
         slowHead = mergeSortList(slowHead);
 
-        return mergeTwoSortedList(mainHead,slowHead);
+        return mergeTwoSortedList(mainHead, slowHead);
     }
 
-    private ListNode mergeTwoSortedList(ListNode left,ListNode right){
-        // dummyHead is the entire LinkedList 
+    private ListNode mergeTwoSortedList(ListNode left, ListNode right) {
+        // dummyHead is the entire LinkedList
         // curr is the last node of the list
         ListNode dummyHead = new ListNode(0), curr = dummyHead;
 
-        while(left!=null && right!=null){
-            if(left.val<=right.val){
+        while (left != null && right != null) {
+            if (left.val <= right.val) {
                 curr.next = left;
                 left = left.next;
-            }else{
+            } else {
                 curr.next = right;
                 right = right.next;
             }
             curr = curr.next;
         }
 
-        if(left!=null){
+        if (left != null) {
             curr.next = left;
             // Can loop but need not to loop as it is a linked list
             // left = left.next;
             // prev = prev.next;
         }
 
-        if(right!=null){
+        if (right != null) {
             curr.next = right;
             // Can loop but need not to loop as it is a linked list
             // right = right.next;

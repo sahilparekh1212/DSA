@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/lru-cache/solutions/1305346/java-hasmapap-queue-linked-list-easy-approach-with-explanation/
-
+// ------------------------------------------------------------------------------------------------
 // O(n) O(n)
 // class LRUCache {
 //     Queue<Integer> q;
@@ -31,14 +31,7 @@
 //         map.put(key,value);
 //     }
 // }
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache obj = new LRUCache(capacity);
- * int param_1 = obj.get(key);
- * obj.put(key,value);
- */
-
+// ------------------------------------------------------------------------------------------------
 // O(1) O(n)
 class DLL {
     int key;
@@ -113,3 +106,4 @@ class LRUCache {
         oldHeadNext.prev = newNode;
     }
 }
+// ------------------------------------------------------------------------------------------------

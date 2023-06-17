@@ -1,33 +1,26 @@
 class MyHashMap {
     int[] ref;
+
     public MyHashMap() {
-        ref = new int[(int)Math.pow(10,6)+1];
+        ref = new int[(int) Math.pow(10, 6) + 1];
     }
-    
+
     public void put(int key, int value) {
         ref[key] = value;
-        if(value==0){
+        if (value == 0) {
             ref[key] = -2;
         }
 
     }
-    
+
     public int get(int key) {
-        if(ref[key]>0){
+        if (ref[key] > 0) {
             return ref[key];
         }
-        return (ref[key]==0 ? -1 : 0);
+        return (ref[key] == 0 ? -1 : 0);
     }
-    
+
     public void remove(int key) {
         ref[key] = 0;
     }
 }
-
-/**
- * Your MyHashMap object will be instantiated and called as such:
- * MyHashMap obj = new MyHashMap();
- * obj.put(key,value);
- * int param_2 = obj.get(key);
- * obj.remove(key);
- */
