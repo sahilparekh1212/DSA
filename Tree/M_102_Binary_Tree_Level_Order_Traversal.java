@@ -1,19 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode() {}
- * TreeNode(int val) { this.val = val; }
- * TreeNode(int val, TreeNode left, TreeNode right) {
- * this.val = val;
- * this.left = left;
- * this.right = right;
- * }
- * }
- */
-
 // https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/33562/java-1ms-dfs-recursive-solution-and-2ms-bfs-iterative-solution/
 
 // https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/33445/java-solution-using-dfs/
