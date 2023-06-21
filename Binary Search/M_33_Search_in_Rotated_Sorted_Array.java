@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/14436/revised-binary-search/
 class Solution {
     public int search(int[] nums, int target) {
         int l = 0;

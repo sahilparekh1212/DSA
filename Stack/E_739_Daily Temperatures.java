@@ -1,7 +1,4 @@
 class Solution {
-    // https://leetcode.com/problems/daily-temperatures/solutions/109862/o-n-java-stack/
-    // https://leetcode.com/problems/daily-temperatures/solutions/1574775/a-classic-stack-problem-detailed-explanation-picture-c-java-python-novemberchallenge/
-    //
     public int[] dailyTemperatures(int[] tArr) {
         int[] ans = new int[tArr.length];
         if (tArr.length == 1) {

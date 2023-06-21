@@ -1,6 +1,3 @@
-// https://leetcode.com/problems/happy-number/solutions/519280/java-100-using-cycle-finding-algorithm/
-// https://leetcode.com/problems/happy-number/solutions/3278532/easier-than-you-think-explained/
-
 class Solution {
     public boolean isHappy(int n) {
         Set<Integer> s = new HashSet<>();

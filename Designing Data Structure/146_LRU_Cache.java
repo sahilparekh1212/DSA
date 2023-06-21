@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/lru-cache/solutions/1305346/java-hasmapap-queue-linked-list-easy-approach-with-explanation/
 // ------------------------------------------------------------------------------------------------
 // O(n) O(n)
 // class LRUCache {

@@ -12,7 +12,7 @@ class Solution {
         return (isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot));
     }
 
-    boolean isSame(TreeNode a, TreeNode b) {
+    private boolean isSame(TreeNode a, TreeNode b) {
         if (a == null && b == null) {
             return true;
         }

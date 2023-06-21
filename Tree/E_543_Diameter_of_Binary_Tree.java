@@ -17,7 +17,7 @@ class Solution {
         return Math.max(Math.max(leftDia, rightDia), (leftHeight + rightHeight));
     }
 
-    public int height(TreeNode root) {
+    private int height(TreeNode root) {
         if (root == null) {
             return 0;
         }
