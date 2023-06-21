@@ -20,7 +20,3 @@ class Solution {
         return ans;
     }
 }
-
-// Follow Up: Find O(m+n) solution > Algorithm called monitonic stack
-// https://www.youtube.com/watch?v=68a1Dc_qVq4
-//

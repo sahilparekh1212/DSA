@@ -3,7 +3,7 @@ class Solution {
         return sortedArrayToBSTHelper(nums, 0, nums.length - 1);
     }
 
-    public TreeNode sortedArrayToBSTHelper(int[] nums, int left, int right) {
+    private TreeNode sortedArrayToBSTHelper(int[] nums, int left, int right) {
         if (left > right) {
             return null;
         }

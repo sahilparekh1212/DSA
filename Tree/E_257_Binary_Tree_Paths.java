@@ -7,7 +7,7 @@ class Solution {
         return ans;
     }
 
-    public void helper(TreeNode root, String prevPath, List<String> ans) {
+    private void helper(TreeNode root, String prevPath, List<String> ans) {
 
         String newPath = prevPath + root.val;
 

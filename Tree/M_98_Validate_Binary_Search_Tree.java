@@ -5,7 +5,7 @@ class Solution {
         return helper(root, null, null);
     }
 
-    public boolean helper(TreeNode root, Integer min, Integer max) {
+    private boolean helper(TreeNode root, Integer min, Integer max) {
         if (root == null) {
             return true;
         }

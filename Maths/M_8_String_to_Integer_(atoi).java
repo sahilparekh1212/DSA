@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/string-to-integer-atoi/solutions/4654/my-simple-solution/?envType=featured-list&envId=top-interview-questions
 class Solution {
     public int myAtoi(String s) {
         int sLength = s.length();

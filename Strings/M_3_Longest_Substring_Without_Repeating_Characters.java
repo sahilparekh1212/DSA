@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        // int[128] for 128 ASCII char
+        // int[128] for 128 printable ASCII char
         int[] lastIndexArr = new int[128];
         Arrays.fill(lastIndexArr, -1);
 

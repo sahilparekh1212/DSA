@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/combination-sum/solutions/16502/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning/
-
 class Solution {
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {

@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/1729/11-line-simple-java-solution-o-n-with-explanation/
-
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         return maxSlidingWindow(s);

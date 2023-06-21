@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/635555/java-100-simple-easy-code-using-pre-order-tree-traversal/
-
 class Solution {
     int ans = 0;
 
