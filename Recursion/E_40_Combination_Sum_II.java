@@ -16,17 +16,18 @@ class Solution {
             ans.add(new ArrayList<>(tempAns));
         } else {
             for (int i = startIndex; i < nums.length; i++) {
+                // 1. No reuse
+                // 2. No duplicates
+                // 3. Follow a direction
                 if (used[i] || (i > 0 && nums[i] == nums[i - 1] && !used[i - 1])
                         || (tempAns.size() > 0 && tempAns.get(tempAns.size() - 1) > nums[i])) {
                     continue;
                 }
-                if (!used[i]) {
-                    used[i] = true;
-                    tempAns.add(nums[i]);
-                    helper(ans, tempAns, nums, startIndex + 1, target, currSum + nums[i], used);
-                    used[i] = false;
-                    tempAns.remove(tempAns.size() - 1);
-                }
+                used[i] = true;
+                tempAns.add(nums[i]);
+                helper(ans, tempAns, nums, startIndex + 1, target, currSum + nums[i], used);
+                used[i] = false;
+                tempAns.remove(tempAns.size() - 1);
             }
         }
     }

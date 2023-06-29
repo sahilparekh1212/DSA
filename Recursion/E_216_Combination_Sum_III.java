@@ -12,6 +12,7 @@ class Solution {
             ans.add(new ArrayList<>(tempAns));
         } else {
             for (int i = currInt; i <= 9; i++) {
+                // same as Combinations 77
                 if (tempAns.size() > 0 && tempAns.get(tempAns.size() - 1) >= i) {
                     continue;
                 }
