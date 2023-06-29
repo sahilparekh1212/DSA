@@ -35,6 +35,7 @@ class Solution {
     private void helper2(List<List<Integer>> ans, List<Integer> tempAns, int[] nums, int startIndex) {
         ans.add(new ArrayList<>(tempAns));
         for (int i = startIndex; i < nums.length; i++) {
+            // no duplicates from rhs
             if (i > startIndex && nums[i] == nums[i - 1]) {
                 continue;
             }
