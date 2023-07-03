@@ -1,5 +1,22 @@
 class Solution {
+    // O(n) O(n)
     public ListNode reverseList(ListNode head) {
+        Stack<Integer> st = new Stack<>();
+        ListNode dummyHead = head;
+        while (dummyHead != null) {
+            st.add(dummyHead.val);
+            dummyHead = dummyHead.next;
+        }
+        ListNode current = head;
+        while (!st.isEmpty()) {
+            current.val = st.pop();
+            current = current.next;
+        }
+        return head;
+    }
+
+    // O(n) O(1)
+    public ListNode reverseList2(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
