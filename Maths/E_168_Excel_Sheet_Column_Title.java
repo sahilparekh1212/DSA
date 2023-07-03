@@ -1,5 +1,17 @@
 class Solution {
+    // O(n) O(1)
     public String convertToTitle(int columnNumber) {
+        StringBuilder sb = new StringBuilder();
+        while (columnNumber != 0) {
+            columnNumber--;
+            sb.append((char) ('A' + (columnNumber % 26)));
+            columnNumber /= 26;
+        }
+        return sb.reverse().toString();
+    }
+
+    // O(n) O(1)
+    public String convertToTitle2(int columnNumber) {
         StringBuilder ans = new StringBuilder("");
         int num = columnNumber;
         String ref = "ZABCDEFGHIJKLMNOPQRSTUVWXY";
