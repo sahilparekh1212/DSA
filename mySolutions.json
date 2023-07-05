@@ -1,0 +1,22 @@
+{
+    "tree": [
+        {
+            "que": "230. Kth Smallest Element in a BST",
+            "links": [
+                "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/3719674/o-n-o-n-recursive-and-iterative/"
+            ]
+        },
+        {
+            "que": "993. Cousins in Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/cousins-in-binary-tree/solutions/3720062/recursive/"
+            ]
+        },
+        {
+            "que": "112. Path Sum",
+            "links": [
+                "https://leetcode.com/problems/path-sum/solutions/3720087/recursive/"
+            ]
+        }
+    ]
+}
