@@ -1,0 +1,10 @@
+{
+    "tree": [
+        {
+            "que": "230. Kth Smallest Element in a BST",
+            "links": [
+                "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/3719674/o-n-o-n-recursive-and-iterative/"
+            ]
+        }
+    ]
+}

@@ -1,9 +1,8 @@
 <h2>
     Project: DSA
 </h2>
+TBD: Remove all code from project and replace with solution link of Leetcode in JSON
 <hr>
-Todo:
-LinkedList: > 25. Reverse Nodes in k-Group
 <hr>
 LeetCode Profile:
 <a href="https://leetcode.com/sahilparekh1212/" target="_blank">
