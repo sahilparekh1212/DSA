@@ -1,0 +1,86 @@
+{
+    "tree": [
+        {
+            "que": "230. Kth Smallest Element in a BST",
+            "links": [
+                "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/3719674/o-n-o-n-recursive-and-iterative/"
+            ]
+        },
+        {
+            "que": "993. Cousins in Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/cousins-in-binary-tree/solutions/3720062/recursive/"
+            ]
+        },
+        {
+            "que": "112. Path Sum",
+            "links": [
+                "https://leetcode.com/problems/path-sum/solutions/3720087/recursive/"
+            ]
+        }
+    ],
+    "stack": [
+        {
+            "que": "232. Implement Queue using Stacks",
+            "links": [
+                "https://leetcode.com/problems/implement-queue-using-stacks/solutions/3724576/2-stack-solution-sc-o-n/"
+            ]
+        },
+        {
+            "que": "225. Implement Stack using Queues",
+            "links": [
+                "https://leetcode.com/problems/implement-stack-using-queues/solutions/3724629/1-queue-solution/"
+            ]
+        },
+        {
+            "que": "150. Evaluate Reverse Polish Notation",
+            "links": [
+                "https://leetcode.com/problems/evaluate-reverse-polish-notation/solutions/3724618/o-n-o-n-for-loop-and-switch-case/"
+            ]
+        },
+        {
+            "que": "20. Valid Parentheses",
+            "links": [
+                "https://leetcode.com/problems/valid-parentheses/solutions/3448008/o-n-o-n-using-stack/"
+            ]
+        },
+        {
+            "que": "155. Min Stack",
+            "links": [
+                "https://leetcode.com/problems/min-stack/solutions/3724687/o-1-o-n-using-1-stack/"
+            ]
+        },
+        {
+            "que": "496. Next Greater Element I",
+            "links": [
+                "https://leetcode.com/problems/next-greater-element-i/solutions/3553892/2-soln-monotonic-stack-and-brute-force/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
+    "": [
+        {
+            "que": "",
+            "links": []
+        }
+    ]
+}
