@@ -57,16 +57,22 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "739. Daily Temperatures",
+            "links": [
+                "https://leetcode.com/problems/daily-temperatures/solutions/3729545/2-o-n-o-n-stack-solution/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "901. Online Stock Span",
+            "links": [
+                "https://leetcode.com/problems/online-stock-span/solutions/3729639/2-o-n-o-n-stack-solution/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "341. Flatten Nested List Iterator",
+            "links": [
+                "https://leetcode.com/problems/flatten-nested-list-iterator/solutions/3730004/o-n-o-n-1-stack-solution/"
+            ]
         },
         {
             "que": "",
