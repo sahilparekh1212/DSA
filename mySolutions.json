@@ -75,6 +75,42 @@
             ]
         },
         {
+            "que": "503. Next Greater Element II",
+            "links": [
+                "https://leetcode.com/problems/next-greater-element-ii/solutions/3734372/o-n-o-n-monotonic-decreasing-stack-solution/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
+    "heap": [
+        {
+            "que": "1464. Maximum Product of Two Elements in an Array",
+            "links": [
+                "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/3734272/2-o-n-o-1-solution/"
+            ]
+        },
+        {
+            "que": "973. K Closest Points to Origin",
+            "links": [
+                "https://leetcode.com/problems/k-closest-points-to-origin/solutions/3734399/array-and-heap-solution/"
+            ]
+        },
+        {
             "que": "",
             "links": []
         },
