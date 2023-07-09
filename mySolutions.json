@@ -117,6 +117,22 @@
             ]
         },
         {
+            "que": "1046. Last Stone Weight",
+            "links": [
+                "https://leetcode.com/problems/last-stone-weight/solutions/3738729/max-heap-solution/"
+            ]
+        },
+        {
+            "que": "2558. Take Gifts From the Richest Pile",
+            "links": [
+                "https://leetcode.com/problems/take-gifts-from-the-richest-pile/solutions/3738746/max-heap-o-nlogn-o-n-solution/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         }
