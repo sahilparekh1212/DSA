@@ -129,8 +129,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "506. Relative Ranks",
+            "links": [
+                "https://leetcode.com/problems/relative-ranks/solutions/3743091/max-heap-solution/"
+            ]
         },
         {
             "que": "",
