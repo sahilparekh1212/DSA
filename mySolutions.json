@@ -135,8 +135,28 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "703. Kth Largest Element in a Stream",
+            "links": [
+                "https://leetcode.com/problems/kth-largest-element-in-a-stream/solutions/3747664/min-heap-solution/"
+            ]
+        },
+        {
+            "que": "2335. Minimum Amount of Time to Fill Cups",
+            "links": [
+                "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/solutions/3747734/max-heap-solution/"
+            ]
+        },
+        {
+            "que": "2099. Find Subsequence of Length K With the Largest Sum",
+            "links": [
+                "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/solutions/3747796/min-heap-solution/"
+            ]
+        },
+        {
+            "que": "347. Top K Frequent Elements",
+            "links": [
+                "https://leetcode.com/problems/top-k-frequent-elements/solutions/3747834/min-heap-solution/"
+            ]
         }
     ],
     "": [
