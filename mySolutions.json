@@ -159,6 +159,32 @@
             ]
         }
     ],
+    "binarySearch": [
+        {
+            "que": "1011. Capacity To Ship Packages Within D Days",
+            "links": [
+                "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/solutions/3752370/binary-search/"
+            ]
+        },
+        {
+            "que": "875. Koko Eating Bananas",
+            "links": [
+                "https://leetcode.com/problems/koko-eating-bananas/solutions/3752423/binary-search-avoiding-int-overflow/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
     "": [
         {
             "que": "",
