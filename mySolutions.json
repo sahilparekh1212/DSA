@@ -173,12 +173,16 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1760. Minimum Limit of Balls in a Bag",
+            "links": [
+                "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/solutions/3757094/why-binary-search-works-intuition/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2226. Maximum Candies Allocated to K Children",
+            "links": [
+                "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/solutions/3757149/binary-search-with-intuition/"
+            ]
         },
         {
             "que": "",
