@@ -185,6 +185,16 @@
             ]
         },
         {
+            "que": "1870. Minimum Speed to Arrive on Time",
+            "links": [
+                "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/solutions/3757361/binary-search/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         }
