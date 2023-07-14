@@ -199,6 +199,24 @@
             "links": []
         }
     ],
+    "recursion": [
+        {
+            "que": "46. Permutations",
+            "links": [
+                "https://leetcode.com/problems/permutations/solutions/3570005/2-java-recursive-solutions/"
+            ]
+        },
+        {
+            "que": "47. Permutations II",
+            "links": [
+                "https://leetcode.com/problems/permutations-ii/solutions/3570006/2-solution-using-count-map-and-used-array/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
     "": [
         {
             "que": "",
