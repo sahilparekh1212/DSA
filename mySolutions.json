@@ -157,6 +157,16 @@
             "links": [
                 "https://leetcode.com/problems/top-k-frequent-elements/solutions/3747834/min-heap-solution/"
             ]
+        },
+        {
+            "que": "451. Sort Characters By Frequency",
+            "links": [
+                "https://leetcode.com/problems/sort-characters-by-frequency/solutions/3766506/max-heap/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
         }
     ],
     "binarySearch": [
@@ -215,6 +225,14 @@
         {
             "que": "",
             "links": []
+        }
+    ],
+    "greedy": [
+        {
+            "que": "1221. Split a String in Balanced Strings",
+            "links": [
+                "https://leetcode.com/problems/split-a-string-in-balanced-strings/solutions/3770926/for-loop/"
+            ]
         }
     ],
     "": [
