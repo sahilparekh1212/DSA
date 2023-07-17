@@ -235,6 +235,38 @@
             ]
         }
     ],
+    "graph": [
+        {
+            "que": "1971. Find if Path Exists in Graph",
+            "links": [
+                "https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/3775743/bfs/"
+            ]
+        },
+        {
+            "que": "690. Employee Importance",
+            "links": [
+                "https://leetcode.com/problems/employee-importance/solutions/3686911/14-line-hashmap-dfs-bfs/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
+    "": [
+        {
+            "que": "",
+            "links": []
+        }
+    ],
     "": [
         {
             "que": "",
