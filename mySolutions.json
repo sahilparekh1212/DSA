@@ -249,12 +249,16 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "733. Flood Fill",
+            "links": [
+                "https://leetcode.com/problems/flood-fill/solutions/3780878/dfs/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "994. Rotting Oranges",
+            "links": [
+                "https://leetcode.com/problems/rotting-oranges/solutions/3780991/bfs/"
+            ]
         },
         {
             "que": "",
