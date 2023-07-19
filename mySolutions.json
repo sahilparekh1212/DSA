@@ -261,6 +261,34 @@
             ]
         },
         {
+            "que": "886. Possible Bipartition",
+            "links": [
+                "https://leetcode.com/problems/possible-bipartition/solutions/3785895/bfs/"
+            ]
+        },
+        {
+            "que": "547. Number of Provinces",
+            "links": [
+                "https://leetcode.com/problems/number-of-provinces/solutions/3785652/dfs/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         }
