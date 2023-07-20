@@ -273,16 +273,22 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "797. All Paths From Source to Target",
+            "links": [
+                "https://leetcode.com/problems/all-paths-from-source-to-target/solutions/3790182/dfs/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "785. Is Graph Bipartite?",
+            "links": [
+                "https://leetcode.com/problems/is-graph-bipartite/solutions/3790252/bfs/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "743. Network Delay Time",
+            "links": [
+                "https://leetcode.com/problems/network-delay-time/solutions/3790392/2-bfs-solution/"
+            ]
         },
         {
             "que": "",
