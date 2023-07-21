@@ -291,8 +291,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "787. Cheapest Flights Within K Stops",
+            "links": [
+                "https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/3795053/dijkstra/"
+            ]
         },
         {
             "que": "",
