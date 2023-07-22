@@ -291,8 +291,28 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "787. Cheapest Flights Within K Stops",
+            "links": [
+                "https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/3795053/dijkstra/"
+            ]
+        },
+        {
+            "que": "1514. Path with Maximum Probability",
+            "links": [
+                "https://leetcode.com/problems/path-with-maximum-probability/solutions/3798792/dijkstra/"
+            ]
+        },
+        {
+            "que": "207. Course Schedule",
+            "links": [
+                "https://leetcode.com/problems/course-schedule/solutions/3798831/topological-sort/"
+            ]
+        },
+        {
+            "que": "841. Keys and Rooms",
+            "links": [
+                "https://leetcode.com/problems/keys-and-rooms/solutions/3798886/bfs/"
+            ]
         },
         {
             "que": "",
