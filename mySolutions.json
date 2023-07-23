@@ -315,6 +315,22 @@
             ]
         },
         {
+            "que": "1376. Time Needed to Inform All Employees",
+            "links": [
+                "https://leetcode.com/problems/time-needed-to-inform-all-employees/solutions/3803315/bfs/"
+            ]
+        },
+        {
+            "que": "1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+            "links": [
+                "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/3803559/floyd-warshall/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         }
