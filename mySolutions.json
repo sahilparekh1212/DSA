@@ -333,8 +333,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "https://leetcode.com/problems/find-eventual-safe-states/description/",
+            "links": [
+                "https://leetcode.com/problems/find-eventual-safe-states/solutions/3812245/dfs/"
+            ]
         }
     ],
     "": [
