@@ -333,10 +333,24 @@
             ]
         },
         {
-            "que": "https://leetcode.com/problems/find-eventual-safe-states/description/",
+            "que": "802. Find Eventual Safe States",
             "links": [
                 "https://leetcode.com/problems/find-eventual-safe-states/solutions/3812245/dfs/"
             ]
+        },
+        {
+            "que": "210. Course Schedule II",
+            "links": [
+                "https://leetcode.com/problems/course-schedule-ii/solutions/3816615/topological-sort/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
         }
     ],
     "": [
