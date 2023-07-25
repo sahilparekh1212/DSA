@@ -327,12 +327,16 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2192. All Ancestors of a Node in a Directed Acyclic Graph",
+            "links": [
+                "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/solutions/3807676/dfs/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "https://leetcode.com/problems/find-eventual-safe-states/description/",
+            "links": [
+                "https://leetcode.com/problems/find-eventual-safe-states/solutions/3812245/dfs/"
+            ]
         }
     ],
     "": [
