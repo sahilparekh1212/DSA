@@ -351,6 +351,30 @@
             ]
         },
         {
+            "que": "997. Find the Town Judge",
+            "links": [
+                "https://leetcode.com/problems/find-the-town-judge/solutions/3821487/counting-indegree-and-outdegree/"
+            ]
+        },
+        {
+            "que": "690. Employee Importance",
+            "links": [
+                "https://leetcode.com/problems/employee-importance/solutions/3821525/dfs-bfs/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         }
