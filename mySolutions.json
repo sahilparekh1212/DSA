@@ -363,8 +363,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "990. Satisfiability of Equality Equations",
+            "links": [
+                "https://leetcode.com/problems/satisfiability-of-equality-equations/solutions/3831052/unionfind/"
+            ]
         },
         {
             "que": "",
