@@ -369,8 +369,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "947. Most Stones Removed with Same Row or Column",
+            "links": [
+                "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/solutions/3835606/unionfind/"
+            ]
         },
         {
             "que": "",
