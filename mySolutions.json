@@ -375,8 +375,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1319. Number of Operations to Make Network Connected",
+            "links": [
+                "https://leetcode.com/problems/number-of-operations-to-make-network-connected/solutions/3839650/unionfind/"
+            ]
         },
         {
             "que": "",
