@@ -387,8 +387,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2685. Count the Number of Complete Components",
+            "links": [
+                "https://leetcode.com/problems/count-the-number-of-complete-components/solutions/3850472/dfs-which-counts-nodes-and-edges/"
+            ]
         },
         {
             "que": "",
