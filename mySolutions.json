@@ -393,8 +393,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1254. Number of Closed Islands",
+            "links": [
+                "https://leetcode.com/problems/number-of-closed-islands/solutions/3860372/dfs/"
+            ]
         },
         {
             "que": "",
