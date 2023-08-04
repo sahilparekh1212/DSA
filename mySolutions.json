@@ -399,8 +399,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1162. As Far from Land as Possible",
+            "links": [
+                "https://leetcode.com/problems/as-far-from-land-as-possible/solutions/3864798/dfs/"
+            ]
         },
         {
             "que": "",
