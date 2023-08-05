@@ -417,7 +417,53 @@
             "links": []
         }
     ],
-    "": [
+    "dynamic_programming": [
+        {
+            "que": "70. Climbing Stairs",
+            "links": [
+                "https://leetcode.com/problems/climbing-stairs/solutions/3868776/1d-dp/"
+            ]
+        },
+        {
+            "que": "53. Maximum Subarray",
+            "links": [
+                "https://leetcode.com/problems/maximum-subarray/solutions/3868949/3-solutions-2-dp-1d-and-1-sliding-window/"
+            ]
+        },
+        {
+            "que": "338. Counting Bits",
+            "links": [
+                "https://leetcode.com/problems/counting-bits/solutions/3869001/1d-dp/"
+            ]
+        },
+        {
+            "que": "198. House Robber",
+            "links": [
+                "https://leetcode.com/problems/house-robber/solutions/3869147/1d-dp/"
+            ]
+        },
+        {
+            "que": "213. House Robber II",
+            "links": [
+                "https://leetcode.com/problems/house-robber-ii/solutions/3869160/1d-dp/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
         {
             "que": "",
             "links": []
