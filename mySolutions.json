@@ -405,8 +405,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "746. Min Cost Climbing Stairs",
+            "links": [
+                "https://leetcode.com/problems/min-cost-climbing-stairs/solutions/3869658/1d-dp/"
+            ]
         },
         {
             "que": "",
