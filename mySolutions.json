@@ -451,8 +451,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1646. Get Maximum in Generated Array",
+            "links": [
+                "https://leetcode.com/problems/get-maximum-in-generated-array/solutions/3877627/1d-dp-3-solution-recursion-memoization-and-tabulation/"
+            ]
         },
         {
             "que": "",
