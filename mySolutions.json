@@ -223,8 +223,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "22. Generate Parentheses",
+            "links": [
+                "https://leetcode.com/problems/generate-parentheses/solutions/3888150/recursive-solution/"
+            ]
         }
     ],
     "greedy": [
