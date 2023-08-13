@@ -541,16 +541,22 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "73. Set Matrix Zeroes",
+            "links": [
+                "https://leetcode.com/problems/set-matrix-zeroes/solutions/3901283/using-1-row-and-1-col/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "118. Pascal's Triangle",
+            "links": [
+                "https://leetcode.com/problems/pascals-triangle/solutions/3901295/o-rows-2/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "75. Sort Colors",
+            "links": [
+                "https://leetcode.com/problems/sort-colors/solutions/3639228/bucket-sort-o-n-o-1/"
+            ]
         },
         {
             "que": "",
