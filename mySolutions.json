@@ -559,6 +559,60 @@
             ]
         },
         {
+            "que": "53. Maximum Subarray",
+            "links": [
+                "https://leetcode.com/problems/maximum-subarray/solutions/3905915/1-pass-o-n-o-1/"
+            ]
+        },
+        {
+            "que": "121. Best Time to Buy and Sell Stock",
+            "links": [
+                "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3905959/1-pass-o-n-o-1/"
+            ]
+        },
+        {
+            "que": "88. Merge Sorted Array",
+            "links": [
+                "https://leetcode.com/problems/merge-sorted-array/solutions/3906042/1-pass-o-n-o-1/"
+            ]
+        },
+        {
+            "que": "287. Find the Duplicate Number",
+            "links": [
+                "https://leetcode.com/problems/find-the-duplicate-number/solutions/3906174/floyd-s-cycle-o-n-o-1/"
+            ]
+        },
+        {
+            "que": "48. Rotate Image",
+            "links": [
+                "https://leetcode.com/problems/rotate-image/solutions/3906227/in-place-rotate-o-r-c-o-1/"
+            ]
+        },
+        {
+            "que": "56. Merge Intervals",
+            "links": [
+                "https://leetcode.com/problems/merge-intervals/solutions/3906305/sorting-asc-merging/"
+            ]
+        },
+        {
+            "que": "74. Search a 2D Matrix",
+            "links": [
+                "https://leetcode.com/problems/search-a-2d-matrix/solutions/3587678/3-java-solutions/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         },
