@@ -601,16 +601,22 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "169. Majority Element",
+            "links": [
+                "https://leetcode.com/problems/majority-element/solutions/3915525/o-n-o-1-moore-s-voting-algo/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "229. Majority Element II",
+            "links": [
+                "https://leetcode.com/problems/majority-element-ii/solutions/3915554/o-n-o-1-boyer-moore-s-voting-algo/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "62. Unique Paths",
+            "links": [
+                "https://leetcode.com/problems/unique-paths/solutions/3915587/3-dp-approaches/"
+            ]
         },
         {
             "que": "",
