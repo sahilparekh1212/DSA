@@ -619,6 +619,44 @@
             ]
         },
         {
+            "que": "1. Two Sum",
+            "links": [
+                "https://leetcode.com/problems/two-sum/solutions/3915633/optimal-and-brute-force-solution/"
+            ]
+        },
+        {
+            "que": "128. Longest Consecutive Sequence",
+            "links": [
+                "https://leetcode.com/problems/longest-consecutive-sequence/solutions/3901151/hashset-o-n-o-n/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
+    "linkedList": [
+        {
+            "que": "876. Middle of the Linked List",
+            "links": [
+                "https://leetcode.com/problems/middle-of-the-linked-list/solutions/3915645/o-n-o-1/"
+            ]
+        },
+        {
+            "que": "206. Reverse Linked List",
+            "links": [
+                "https://leetcode.com/problems/reverse-linked-list/solutions/3915663/2-approaches-in-place-and-using-stack/"
+            ]
+        },
+        {
             "que": "",
             "links": []
         },
@@ -640,6 +678,30 @@
         }
     ],
     "": [
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
         {
             "que": "",
             "links": []
