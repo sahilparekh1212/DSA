@@ -657,8 +657,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "237. Delete Node in a Linked List",
+            "links": [
+                "https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/3445456/changing-reference-and-value-of-the-node/"
+            ]
         },
         {
             "que": "",
