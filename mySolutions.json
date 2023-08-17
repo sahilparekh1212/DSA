@@ -17,6 +17,94 @@
             "links": [
                 "https://leetcode.com/problems/path-sum/solutions/3720087/recursive/"
             ]
+        },
+        {
+            "que": "94. Binary Tree Inorder Traversal",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/3920238/2-generic-and-2-specific-solutions/"
+            ]
+        },
+        {
+            "que": "144. Binary Tree Preorder Traversal",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/3920253/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "145. Binary Tree Postorder Traversal",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/3920267/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "662. Maximum Width of Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/maximum-width-of-binary-tree/solutions/3920352/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "102. Binary Tree Level Order Traversal",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/3920361/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "104. Maximum Depth of Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/3920373/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "100. Same Tree",
+            "links": [
+                "https://leetcode.com/problems/same-tree/solutions/3920405/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "110. Balanced Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/balanced-binary-tree/solutions/3920456/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
         }
     ],
     "stack": [
@@ -663,8 +751,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "19. Remove Nth Node From End of List",
+            "links": [
+                "https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/3920152/o-n-o-1/"
+            ]
         },
         {
             "que": "",
