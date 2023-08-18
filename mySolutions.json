@@ -67,16 +67,22 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "101. Symmetric Tree",
+            "links": [
+                "https://leetcode.com/problems/symmetric-tree/solutions/3928890/recursive-o-n-o-n/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "700. Search in a Binary Search Tree",
+            "links": [
+                "https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/3928895/recursive-o-n-o-n/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "98. Validate Binary Search Tree",
+            "links": [
+                "https://leetcode.com/problems/validate-binary-search-tree/solutions/3928927/recursive-o-n-o-n/"
+            ]
         },
         {
             "que": "",
