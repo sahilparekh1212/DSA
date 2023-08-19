@@ -723,8 +723,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "26. Remove Duplicates from Sorted Array",
+            "links": [
+                "https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3445472/java-o-n-o-1-99-better/"
+            ]
         },
         {
             "que": "",
