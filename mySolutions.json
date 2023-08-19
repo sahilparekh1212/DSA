@@ -819,10 +819,12 @@
             "links": []
         }
     ],
-    "": [
+    "string": [
         {
-            "que": "",
-            "links": []
+            "que": "242. Valid Anagram",
+            "links": [
+                "https://leetcode.com/problems/valid-anagram/solutions/3698623/o-n-o-1-using-for-loop/"
+            ]
         },
         {
             "que": "",
