@@ -91,12 +91,6 @@
             ]
         },
         {
-            "que": "141. Linked List Cycle",
-            "links": [
-                "https://leetcode.com/problems/linked-list-cycle/solutions/3929008/iterative-solution/"
-            ]
-        },
-        {
             "que": "",
             "links": []
         },
@@ -764,6 +758,12 @@
             "que": "19. Remove Nth Node From End of List",
             "links": [
                 "https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/3920152/o-n-o-1/"
+            ]
+        },
+        {
+            "que": "141. Linked List Cycle",
+            "links": [
+                "https://leetcode.com/problems/linked-list-cycle/solutions/3929008/iterative-solution/"
             ]
         },
         {
