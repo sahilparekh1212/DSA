@@ -85,12 +85,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
-        },
-        {
-            "que": "",
-            "links": []
+            "que": "235. Lowest Common Ancestor of a Binary Search Tree",
+            "links": [
+                "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/3928995/recursive/"
+            ]
         },
         {
             "que": "",
@@ -760,6 +758,12 @@
             "que": "19. Remove Nth Node From End of List",
             "links": [
                 "https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/3920152/o-n-o-1/"
+            ]
+        },
+        {
+            "que": "141. Linked List Cycle",
+            "links": [
+                "https://leetcode.com/problems/linked-list-cycle/solutions/3929008/iterative-solution/"
             ]
         },
         {
