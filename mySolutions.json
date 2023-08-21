@@ -109,6 +109,38 @@
             ]
         },
         {
+            "que": "173. Binary Search Tree Iterator",
+            "links": [
+                "https://leetcode.com/problems/binary-search-tree-iterator/solutions/3938680/in-order-using-stack/"
+            ]
+        },
+        {
+            "que": "543. Diameter of Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/diameter-of-binary-tree/solutions/3938702/using-height/"
+            ]
+        },
+        {
+            "que": "572. Subtree of Another Tree",
+            "links": [
+                "https://leetcode.com/problems/subtree-of-another-tree/solutions/3938723/recursive-solution/"
+            ]
+        },
+        {
+            "que": "938. Range Sum of BST",
+            "links": [
+                "https://leetcode.com/problems/range-sum-of-bst/solutions/3938729/recursion/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
             "que": "",
             "links": []
         },
