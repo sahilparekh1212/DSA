@@ -401,6 +401,24 @@
             "links": [
                 "https://leetcode.com/problems/split-a-string-in-balanced-strings/solutions/3770926/for-loop/"
             ]
+        },
+        {
+            "que": "1323. Maximum 69 Number",
+            "links": [
+                "https://leetcode.com/problems/maximum-69-number/solutions/3947666/o-n-o-n/"
+            ]
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
         }
     ],
     "graph": [
@@ -773,8 +791,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1827. Minimum Operations to Make the Array Increasing",
+            "links": [
+                "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/solutions/3947676/o-n-o-1/"
+            ]
         },
         {
             "que": "",
