@@ -409,6 +409,12 @@
             ]
         },
         {
+            "que": "1710. Maximum Units on a Truck",
+            "links": [
+                "https://leetcode.com/problems/maximum-units-on-a-truck/solutions/3947733/sorting-greedy/"
+            ]
+        },
+        {
             "que": "",
             "links": []
         },
@@ -797,12 +803,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
-        },
-        {
-            "que": "",
-            "links": []
+            "que": "561. Array Partition",
+            "links": [
+                "https://leetcode.com/problems/array-partition/solutions/3947717/sort-and-sum-value-at-the-odd-index/"
+            ]
         },
         {
             "que": "",
