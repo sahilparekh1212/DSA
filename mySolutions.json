@@ -409,6 +409,12 @@
             ]
         },
         {
+            "que": "1710. Maximum Units on a Truck",
+            "links": [
+                "https://leetcode.com/problems/maximum-units-on-a-truck/solutions/3947733/sorting-greedy/"
+            ]
+        },
+        {
             "que": "",
             "links": []
         },
@@ -797,12 +803,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
-        },
-        {
-            "que": "",
-            "links": []
+            "que": "561. Array Partition",
+            "links": [
+                "https://leetcode.com/problems/array-partition/solutions/3947717/sort-and-sum-value-at-the-odd-index/"
+            ]
         },
         {
             "que": "",
@@ -885,12 +889,16 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1974. Minimum Time to Type Word Using Special Typewriter",
+            "links": [
+                "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/solutions/3947756/o-n-o-1/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2578. Split With Minimum Sum",
+            "links": [
+                "https://leetcode.com/problems/split-with-minimum-sum/solutions/3947844/bucket-sort-brute-force/"
+            ]
         },
         {
             "que": "",
