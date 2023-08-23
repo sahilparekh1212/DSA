@@ -889,12 +889,16 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1974. Minimum Time to Type Word Using Special Typewriter",
+            "links": [
+                "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/solutions/3947756/o-n-o-1/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2578. Split With Minimum Sum",
+            "links": [
+                "https://leetcode.com/problems/split-with-minimum-sum/solutions/3947844/bucket-sort-brute-force/"
+            ]
         },
         {
             "que": "",
