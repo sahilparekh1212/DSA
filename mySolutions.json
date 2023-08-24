@@ -611,7 +611,7 @@
             "links": []
         }
     ],
-    "dynamic_programming": [
+    "dynamicProgramming": [
         {
             "que": "70. Climbing Stairs",
             "links": [
@@ -649,8 +649,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1641. Count Sorted Vowel Strings",
+            "links": [
+                "https://leetcode.com/problems/count-sorted-vowel-strings/solutions/3956355/memoization/"
+            ]
         },
         {
             "que": "",
@@ -900,6 +902,42 @@
                 "https://leetcode.com/problems/split-with-minimum-sum/solutions/3947844/bucket-sort-brute-force/"
             ]
         },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
+    "": [
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        },
+        {
+            "que": "",
+            "links": []
+        }
+    ],
+    "": [
         {
             "que": "",
             "links": []
