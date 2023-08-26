@@ -655,8 +655,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "416. Partition Equal Subset Sum",
+            "links": [
+                "https://leetcode.com/problems/partition-equal-subset-sum/solutions/3960466/2d-dp-topdown-and-bottomup/"
+            ]
         },
         {
             "que": "",
