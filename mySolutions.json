@@ -371,8 +371,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "131. Palindrome Partitioning",
+            "links": [
+                "https://leetcode.com/problems/palindrome-partitioning/solutions/3969330/backtracking/"
+            ]
         },
         {
             "que": "",
