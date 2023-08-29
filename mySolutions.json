@@ -133,8 +133,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "671. Second Minimum Node In a Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/3978354/recursive-o-n-o-n/"
+            ]
         },
         {
             "que": "",
