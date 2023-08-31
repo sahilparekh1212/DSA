@@ -861,8 +861,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2535. Difference Between Element Sum and Digit Sum of an Array",
+            "links": [
+                "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/solutions/3986082/single-pass-o-n-o-1/"
+            ]
         },
         {
             "que": "",
