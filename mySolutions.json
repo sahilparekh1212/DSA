@@ -133,8 +133,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "671. Second Minimum Node In a Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/3978354/recursive-o-n-o-n/"
+            ]
         },
         {
             "que": "",
@@ -853,12 +855,16 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2078. Two Furthest Houses With Different Colors",
+            "links": [
+                "https://leetcode.com/problems/two-furthest-houses-with-different-colors/solutions/3982373/2-solutions/"
+            ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2535. Difference Between Element Sum and Digit Sum of an Array",
+            "links": [
+                "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/solutions/3986082/single-pass-o-n-o-1/"
+            ]
         },
         {
             "que": "",
