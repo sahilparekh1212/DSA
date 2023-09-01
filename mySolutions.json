@@ -333,8 +333,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2485. Find the Pivot Integer",
+            "links": [
+                "https://leetcode.com/problems/find-the-pivot-integer/solutions/3990288/binary-search/"
+            ]
         },
         {
             "que": "",
