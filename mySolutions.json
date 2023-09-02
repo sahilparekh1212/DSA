@@ -969,10 +969,12 @@
             "links": []
         }
     ],
-    "": [
+    "maths": [
         {
-            "que": "",
-            "links": []
+            "que": "728. Self Dividing Numbers",
+            "links": [
+                "https://leetcode.com/problems/self-dividing-numbers/solutions/3990489/o-n-o-n/"
+            ]
         },
         {
             "que": "",
