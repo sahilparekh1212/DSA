@@ -977,8 +977,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "1266. Minimum Time Visiting All Points",
+            "links": [
+                "https://leetcode.com/problems/minimum-time-visiting-all-points/solutions/3998989/o-n-o-1-max-of-dx-and-dy/"
+            ]
         },
         {
             "que": "",
