@@ -953,8 +953,10 @@
             ]
         },
         {
-            "que": "",
-            "links": []
+            "que": "2011. Final Value of Variable After Performing Operations",
+            "links": [
+                "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/4003225/o-n-o-1/"
+            ]
         },
         {
             "que": "",
