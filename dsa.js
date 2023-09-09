@@ -1255,9 +1255,11 @@ let updateHTML = () => {
     for (const g of genres) {
 
         let currArr = data[0][g].sort((a, b) => {
-            if (a.que < b.que) {
+            let aNum = Number(a.que.split(".")[0]);
+            let bNum = Number(b.que.split(".")[0]);
+            if (aNum < bNum) {
                 return -1;
-            } else if (a.que > b.que) {
+            } else if (aNum > bNum) {
                 return 1;
             } else {
                 return 0;
@@ -1267,12 +1269,12 @@ let updateHTML = () => {
         for (const q of currArr) {
             if (g && q.que && q.links[0]) {
                 html += `
-                                            <tr class="row ${count % 2 == 0 ? "bg-transparent text-dark" : "bg-light text-dark"}">
-                                                <td class="col-2">${count}. ${g}</td>
-                                                <td class="col-3">${q.que}</td>
-                                                <td class="col-7"><a href="${q.links[0]}" target="_blank">${q.links[0]}</a></td>
-                                            </tr>
-                                        `;
+                    <tr class="row ${count % 2 == 0 ? "bg-transparent text-dark" : "bg-light text-dark"}">
+                        <td class="col-2">${count}. ${g}</td>
+                        <td class="col-3">${q.que}</td>
+                        <td class="col-7"><a href="${q.links[0]}" target="_blank">${q.links[0]}</a></td>
+                    </tr>
+                `;
                 count++;
             }
         }
