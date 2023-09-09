@@ -140,6 +140,30 @@ let data = [
                 ]
             },
             {
+                "que": "404. Sum of Left Leaves",
+                "links": ["https://leetcode.com/problems/sum-of-left-leaves/solutions/4024218/o-n-o-n/"]
+            },
+            {
+                "que": "530. Minimum Absolute Difference in BST",
+                "links": ["https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/4024222/o-n-o-n/"]
+            },
+            {
+                "que": "1448. Count Good Nodes in Binary Tree",
+                "links": ["https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/4024236/o-n-o-n/"]
+            },
+            {
+                "que": "236. Lowest Common Ancestor of a Binary Tree",
+                "links": ["https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/4024244/o-n-o-n/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             },
@@ -358,20 +382,28 @@ let data = [
                 ]
             },
             {
-                "que": "",
-                "links": []
+                "que": "704. Binary Search",
+                "links": ["https://leetcode.com/problems/binary-search/solutions/4024224/o-logn-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "852. Peak Index in a Mountain Array",
+                "links": ["https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/4024227/o-logn-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1351. Count Negative Numbers in a Sorted Matrix",
+                "links": ["https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/solutions/4024230/binary-search-o-logn-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "33. Search in Rotated Sorted Array",
+                "links": ["https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/4024240/o-logn-o-1/"]
+            },
+            {
+                "que": "74. Search a 2D Matrix",
+                "links": ["https://leetcode.com/problems/search-a-2d-matrix/solutions/3587678/3-java-solutions/"]
+            },
+            {
+                "que": "162. Find Peak Element",
+                "links": ["https://leetcode.com/problems/find-peak-element/solutions/3587612/o-logn-o-1/"]
             },
             {
                 "que": "",
@@ -1054,6 +1086,46 @@ let data = [
                 ]
             },
             {
+                "que": "2114. Maximum Number of Words Found in Sentences",
+                "links": ["https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/4024216/1-pass-o-n-o-1/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             }
@@ -1248,7 +1320,7 @@ let updateHTML = () => {
             return 0;
         }
     });
-
+    console.log(genres);
     let html = "";
     let count = 1;
 
