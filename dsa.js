@@ -1090,8 +1090,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/4024216/1-pass-o-n-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2194. Cells in a Range on an Excel Sheet",
+                "links": ["https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/4028714/o-n-o-n/"]
             },
             {
                 "que": "",
