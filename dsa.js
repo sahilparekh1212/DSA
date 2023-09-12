@@ -1094,8 +1094,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/4028714/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2325. Decode the Message",
+                "links": ["https://leetcode.com/problems/decode-the-message/solutions/4033327/o-n-o-1-26-char-array/"]
             },
             {
                 "que": "",
