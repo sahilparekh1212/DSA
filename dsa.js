@@ -1098,8 +1098,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/decode-the-message/solutions/4033327/o-n-o-1-26-char-array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1662. Check If Two String Arrays are Equivalent",
+                "links": ["https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/4037879/2-solutions-optimized-and-brute-force/"]
             },
             {
                 "que": "",
