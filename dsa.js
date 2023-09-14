@@ -1102,8 +1102,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/4037879/2-solutions-optimized-and-brute-force/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1816. Truncate Sentence",
+                "links": ["https://leetcode.com/problems/truncate-sentence/solutions/4045804/o-n-o-n/"]
             },
             {
                 "que": "",
