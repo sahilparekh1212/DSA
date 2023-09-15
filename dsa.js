@@ -1106,8 +1106,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/truncate-sentence/solutions/4045804/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2828. Check if a String Is an Acronym of Words",
+                "links": ["https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/4049431/o-n-o-1/"]
             },
             {
                 "que": "",
