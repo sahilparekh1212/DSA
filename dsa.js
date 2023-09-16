@@ -1298,16 +1298,32 @@ let data = [
         ],
         "slidingWindow": [
             {
-                "que": "",
-                "links": []
+                "que": "485. Max Consecutive Ones",
+                "links": ["https://leetcode.com/problems/max-consecutive-ones/solutions/3667777/one-pass-o-n-o-1-2-solution/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "3. Longest Substring Without Repeating Characters",
+                "links": ["https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/3623981/array-o-n-o-1-100-95-86/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "53. Maximum Subarray",
+                "links": ["https://leetcode.com/problems/maximum-subarray/solutions/3868949/3-solutions-2-dp-1d-and-1-sliding-window/"]
+            },
+            {
+                "que": "76. Minimum Window Substring",
+                "links": ["https://leetcode.com/problems/minimum-window-substring/solutions/4052947/sliding-window/"]
+            },
+            {
+                "que": "209. Minimum Size Subarray Sum",
+                "links": ["https://leetcode.com/problems/minimum-size-subarray-sum/solutions/4052973/o-n-o-1/"]
+            },
+            {
+                "que": "395. Longest Substring with At Least K Repeating Characters",
+                "links": ["https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/solutions/3667763/sliding-window-recursive-100-faster/"]
+            },
+            {
+                "que": "1004. Max Consecutive Ones III",
+                "links": ["https://leetcode.com/problems/max-consecutive-ones-iii/solutions/3667770/o-n-o-1-sliding-window/"]
             },
             {
                 "que": "",
@@ -1315,10 +1331,6 @@ let data = [
             }
         ],
         "": [
-            {
-                "que": "",
-                "links": []
-            },
             {
                 "que": "",
                 "links": []
