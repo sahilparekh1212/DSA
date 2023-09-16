@@ -406,8 +406,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/find-peak-element/solutions/3587612/o-logn-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "981. Time Based Key-Value Store",
+                "links": ["https://leetcode.com/problems/time-based-key-value-store/solutions/4052820/binary-search/"]
             },
             {
                 "que": "",
@@ -802,6 +802,34 @@ let data = [
                 ]
             },
             {
+                "que": "215. Kth Largest Element in an Array",
+                "links": ["https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/3734524/3-solutions-array-heap-and-quicksort/"]
+            },
+            {
+                "que": "912. Sort an Array",
+                "links": ["https://leetcode.com/problems/sort-an-array/solutions/4052840/merge-sort/"]
+            },
+            {
+                "que": "2706. Buy Two Chocolates",
+                "links": ["https://leetcode.com/problems/buy-two-chocolates/solutions/4052858/sort-array/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             },
@@ -1036,8 +1064,8 @@ let data = [
                 ]
             },
             {
-                "que": "",
-                "links": []
+                "que": "146. LRU Cache",
+                "links": ["https://leetcode.com/problems/lru-cache/solutions/4052889/2-solutions-o-1-o-n/"]
             },
             {
                 "que": "",
@@ -1106,12 +1134,12 @@ let data = [
                 "links": ["https://leetcode.com/problems/truncate-sentence/solutions/4045804/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2828. Check if a String Is an Acronym of Words",
+                "links": ["https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/solutions/4049431/o-n-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "709. To Lower Case",
+                "links": ["https://leetcode.com/problems/to-lower-case/solutions/4052793/using-ascii-code/"]
             },
             {
                 "que": "",
