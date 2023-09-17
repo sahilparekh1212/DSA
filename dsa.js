@@ -1142,8 +1142,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/to-lower-case/solutions/4052793/using-ascii-code/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1832. Check if the Sentence Is Pangram",
+                "links": ["https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/4053625/array-of-boolean/"]
             },
             {
                 "que": "",
