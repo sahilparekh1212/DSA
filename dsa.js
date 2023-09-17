@@ -1146,6 +1146,22 @@ let data = [
                 "links": ["https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/4053625/array-of-boolean/"]
             },
             {
+                "que": "771. Jewels and Stones",
+                "links": ["https://leetcode.com/problems/jewels-and-stones/solutions/3683127/o-n-o-1-one-pass/"]
+            },
+            {
+                "que": "680. Valid Palindrome II",
+                "links": ["https://leetcode.com/problems/valid-palindrome-ii/solutions/4056367/2-pointer-o-n-o-1/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             },
