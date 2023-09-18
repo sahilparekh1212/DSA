@@ -156,12 +156,12 @@ let data = [
                 "links": ["https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/4024244/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "257. Binary Tree Paths",
+                "links": ["https://leetcode.com/problems/binary-tree-paths/solutions/4058014/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "617. Merge Two Binary Trees",
+                "links": ["https://leetcode.com/problems/merge-two-binary-trees/solutions/4058044/recursive-solution/"]
             },
             {
                 "que": "",
@@ -1020,6 +1020,22 @@ let data = [
                 ]
             },
             {
+                "que": "705. Design HashSet",
+                "links": ["https://leetcode.com/problems/design-hashset/solutions/4057994/o-1-o-1/"]
+            },
+            {
+                "que": "706. Design HashMap",
+                "links": ["https://leetcode.com/problems/design-hashmap/solutions/4058006/o-1-o-1/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             },
@@ -1068,8 +1084,24 @@ let data = [
                 "links": ["https://leetcode.com/problems/lru-cache/solutions/4052889/2-solutions-o-1-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "203. Remove Linked List Elements",
+                "links": ["https://leetcode.com/problems/remove-linked-list-elements/solutions/4057963/2-solutions/"]
+            },
+            {
+                "que": "2095. Delete the Middle Node of a Linked List",
+                "links": ["https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/4057968/two-pointer/"]
+            },
+            {
+                "que": "1290. Convert Binary Number in a Linked List to Integer",
+                "links": ["https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solutions/4057974/2-solutions/"]
+            },
+            {
+                "que": "21. Merge Two Sorted Lists",
+                "links": ["https://leetcode.com/problems/merge-two-sorted-lists/solutions/3475562/o-n-o-1/"]
+            },
+            {
+                "que": "142. Linked List Cycle II",
+                "links": ["https://leetcode.com/problems/linked-list-cycle-ii/solutions/4057985/2-solutions/"]
             },
             {
                 "que": "",
@@ -1154,8 +1186,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/valid-palindrome-ii/solutions/4056367/2-pointer-o-n-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1859. Sorting the Sentence",
+                "links": ["https://leetcode.com/problems/sorting-the-sentence/solutions/4057951/using-map-and-stringbuilder/"]
             },
             {
                 "que": "",
@@ -1259,24 +1291,6 @@ let data = [
             }
         ],
         "trie": [
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            }
-        ],
-        "twoPointer": [
             {
                 "que": "",
                 "links": []
