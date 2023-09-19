@@ -1246,8 +1246,8 @@ let data = [
                 ]
             },
             {
-                "que": "",
-                "links": []
+                "que": "593. Valid Square",
+                "links": ["https://leetcode.com/problems/valid-square/solutions/4062333/using-treeset/"]
             },
             {
                 "que": "",
