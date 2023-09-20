@@ -1214,8 +1214,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/count-asterisks/solutions/4062299/2-while-loops/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2042. Check if Numbers Are Ascending in a Sentence",
+                "links": ["https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/solutions/4070293/1-pass-o-n-o-1/"]
             },
             {
                 "que": "",
