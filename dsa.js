@@ -1048,8 +1048,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/design-hashmap/solutions/4058006/o-1-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1365. How Many Numbers Are Smaller Than the Current Number",
+                "links": ["https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/4078670/o-n-o-n/"]
             },
             {
                 "que": "",
