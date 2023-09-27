@@ -1214,8 +1214,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/count-asterisks/solutions/4062299/2-while-loops/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2810. Faulty Keyboard",
+                "links": ["https://leetcode.com/problems/faulty-keyboard/solutions/4098016/using-string-builder-sc-o-n/"]
             },
             {
                 "que": "",
