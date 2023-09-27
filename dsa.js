@@ -1218,6 +1218,10 @@ let data = [
                 "links": ["https://leetcode.com/problems/faulty-keyboard/solutions/4098016/using-string-builder-sc-o-n/"]
             },
             {
+                "que": "2042. Check if Numbers Are Ascending in a Sentence",
+                "links": ["https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/solutions/4070293/1-pass-o-n-o-1/"]
+            },
+            {
                 "que": "",
                 "links": []
             },
