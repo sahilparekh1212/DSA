@@ -1048,8 +1048,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/design-hashmap/solutions/4058006/o-1-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1365. How Many Numbers Are Smaller Than the Current Number",
+                "links": ["https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/4078670/o-n-o-n/"]
             },
             {
                 "que": "",
@@ -1212,6 +1212,10 @@ let data = [
             {
                 "que": "2315. Count Asterisks",
                 "links": ["https://leetcode.com/problems/count-asterisks/solutions/4062299/2-while-loops/"]
+            },
+            {
+                "que": "2810. Faulty Keyboard",
+                "links": ["https://leetcode.com/problems/faulty-keyboard/solutions/4098016/using-string-builder-sc-o-n/"]
             },
             {
                 "que": "2042. Check if Numbers Are Ascending in a Sentence",
