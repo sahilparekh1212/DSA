@@ -1052,8 +1052,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/4078670/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2006. Count Number of Pairs With Absolute Difference K",
+                "links": ["https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/solutions/4102694/o-1-o-1/"]
             },
             {
                 "que": "",
