@@ -1056,12 +1056,12 @@ let data = [
                 "links": ["https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/solutions/4102694/o-1-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1470. Shuffle the Array",
+                "links": ["https://leetcode.com/problems/shuffle-the-array/solutions/4107250/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2574. Left and Right Sum Differences",
+                "links": ["https://leetcode.com/problems/left-and-right-sum-differences/solutions/4111292/o-n-o-n/"]
             },
             {
                 "que": "",
