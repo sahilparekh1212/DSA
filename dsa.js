@@ -1222,8 +1222,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/solutions/4070293/1-pass-o-n-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1684. Count the Number of Consistent Strings",
+                "links": ["https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/4115455/using-set/"]
             },
             {
                 "que": "",
