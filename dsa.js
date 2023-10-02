@@ -1064,8 +1064,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/left-and-right-sum-differences/solutions/4111292/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1913. Maximum Product Difference Between Two Pairs",
+                "links": ["https://leetcode.com/problems/maximum-product-difference-between-two-pairs/solutions/4116720/2-solutions/"]
             }
         ],
         "linkedList": [
@@ -1222,8 +1222,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/solutions/4070293/1-pass-o-n-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1684. Count the Number of Consistent Strings",
+                "links": ["https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/4115455/using-set/"]
             },
             {
                 "que": "",
