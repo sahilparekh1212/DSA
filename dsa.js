@@ -1064,8 +1064,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/left-and-right-sum-differences/solutions/4111292/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1913. Maximum Product Difference Between Two Pairs",
+                "links": ["https://leetcode.com/problems/maximum-product-difference-between-two-pairs/solutions/4116720/2-solutions/"]
             }
         ],
         "linkedList": [
