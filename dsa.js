@@ -1128,8 +1128,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/maximum-product-difference-between-two-pairs/solutions/4116720/2-solutions/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2418. Sort the People",
+                "links": ["https://leetcode.com/problems/sort-the-people/solutions/4131038/using-map-and-treeset/"]
             },
             {
                 "que": "",
