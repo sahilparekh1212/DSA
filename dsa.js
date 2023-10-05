@@ -164,16 +164,16 @@ let data = [
                 "links": ["https://leetcode.com/problems/merge-two-binary-trees/solutions/4058044/recursive-solution/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "103. Binary Tree Zigzag Level Order Traversal",
+                "links": ["https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/4135638/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "863. All Nodes Distance K in Binary Tree",
+                "links": ["https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solutions/3611252/explained-java-o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "226. Invert Binary Tree",
+                "links": ["https://leetcode.com/problems/invert-binary-tree/solutions/4135651/o-n-o-n/"]
             },
             {
                 "que": "",
