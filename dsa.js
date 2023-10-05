@@ -1132,8 +1132,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/sort-the-people/solutions/4131038/using-map-and-treeset/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2185. Counting Words With a Given Prefix",
+                "links": ["https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/4135631/o-n-o-1/"]
             },
             {
                 "que": "",
