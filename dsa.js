@@ -1350,12 +1350,12 @@ let data = [
                 "links": ["https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/4126749/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2103. Rings and Rods",
+                "links": ["https://leetcode.com/problems/rings-and-rods/solutions/4135662/o-n-o-n-using-map-and-set/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1436. Destination City",
+                "links": ["https://leetcode.com/problems/destination-city/solutions/4135732/o-n-o-n-using-map/"]
             },
             {
                 "que": "",
