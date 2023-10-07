@@ -268,6 +268,10 @@ let data = [
         ],
         "heap": [
             {
+                "que": "1337. The K Weakest Rows in a Matrix",
+                "links": ["https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solutions/4139971/minheap/"]
+            },
+            {
                 "que": "1464. Maximum Product of Two Elements in an Array",
                 "links": [
                     "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/3734272/2-o-n-o-1-solution/"
@@ -1134,10 +1138,6 @@ let data = [
             {
                 "que": "2185. Counting Words With a Given Prefix",
                 "links": ["https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/4135631/o-n-o-1/"]
-            },
-            {
-                "que": "",
-                "links": []
             },
             {
                 "que": "",
