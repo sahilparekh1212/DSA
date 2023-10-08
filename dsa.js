@@ -1140,8 +1140,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/4135631/o-n-o-1/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2089. Find Target Indices After Sorting Array",
+                "links": ["https://leetcode.com/problems/find-target-indices-after-sorting-array/solutions/4147416/1-pass-o-n-o-n/"]
             },
             {
                 "que": "",
