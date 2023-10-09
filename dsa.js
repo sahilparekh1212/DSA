@@ -1376,6 +1376,12 @@ let data = [
         ],
         "maths": [
             {
+                "que": "2520. Count the Digits That Divide a Number",
+                "links": [
+                    "https://leetcode.com/problems/count-the-digits-that-divide-a-number/solutions/4151826/single-pass-o-logn-o-1/"
+                ]
+            },
+            {
                 "que": "728. Self Dividing Numbers",
                 "links": [
                     "https://leetcode.com/problems/self-dividing-numbers/solutions/3990489/o-n-o-n/"
