@@ -1250,6 +1250,14 @@ let data = [
         ],
         "string": [
             {
+                "que": "844. Backspace String Compare",
+                "links": ["https://leetcode.com/problems/backspace-string-compare/solutions/4162543/o-n-o-1/"]
+            },
+            {
+                "que": "1941. Check if All Characters Have Equal Number of Occurrences",
+                "links": ["https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/4162539/o-n-o-1/"]
+            },
+            {
                 "que": "2864. Maximum Odd Binary Number",
                 "links": ["https://leetcode.com/problems/maximum-odd-binary-number/solutions/4158840/o-n-o-n/"]
             },
