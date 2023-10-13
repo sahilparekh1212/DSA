@@ -2,6 +2,12 @@ let data = [
     {
         "tree": [
             {
+                "que": "199. Binary Tree Right Side View",
+                "links": [
+                    "https://leetcode.com/problems/binary-tree-right-side-view/solutions/3602538/o-n-o-n-simple-java-recursive-solution/"
+                ]
+            },
+            {
                 "que": "230. Kth Smallest Element in a BST",
                 "links": [
                     "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/3719674/o-n-o-n-recursive-and-iterative/"
@@ -1249,6 +1255,10 @@ let data = [
             }
         ],
         "string": [
+            {
+                "que": "2716. Minimize String Length",
+                "links": ["https://leetcode.com/problems/minimize-string-length/solutions/4164334/single-pass-o-n-o-1/"]
+            },
             {
                 "que": "844. Backspace String Compare",
                 "links": ["https://leetcode.com/problems/backspace-string-compare/solutions/4162543/o-n-o-1/"]
