@@ -924,11 +924,15 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1748. Sum of Unique Elements",
+                "links": ["https://leetcode.com/problems/sum-of-unique-elements/solutions/4166166/o-n-o-1-one-pass-using-bucket/"]
             }
         ],
         "array": [
+            {
+                "que": "1748. Sum of Unique Elements",
+                "links": ["https://leetcode.com/problems/sum-of-unique-elements/solutions/4166166/o-n-o-1-one-pass-using-bucket/"]
+            },
             {
                 "que": "128. Longest Consecutive Sequence",
                 "links": [
