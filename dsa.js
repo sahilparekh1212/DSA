@@ -924,11 +924,19 @@ let data = [
                 "links": []
             },
             {
-                "que": "1748. Sum of Unique Elements",
-                "links": ["https://leetcode.com/problems/sum-of-unique-elements/solutions/4166166/o-n-o-1-one-pass-using-bucket/"]
+                "que": "",
+                "links": []
             }
         ],
         "array": [
+            {
+                "que": "2215. Find the Difference of Two Arrays",
+                "links": ["https://leetcode.com/problems/find-the-difference-of-two-arrays/description/"]
+            },
+            {
+                "que": "1748. Sum of Unique Elements",
+                "links": ["https://leetcode.com/problems/sum-of-unique-elements/solutions/4166166/o-n-o-1-one-pass-using-bucket/"]
+            },
             {
                 "que": "1748. Sum of Unique Elements",
                 "links": ["https://leetcode.com/problems/sum-of-unique-elements/solutions/4166166/o-n-o-1-one-pass-using-bucket/"]
