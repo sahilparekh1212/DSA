@@ -874,8 +874,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1844. Replace All Digits with Characters",
+                "links": ["https://leetcode.com/problems/replace-all-digits-with-characters/solutions/4176734/o-n-o-n/"]
             }
         ],
         "sorting": [
