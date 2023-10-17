@@ -872,10 +872,6 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "1844. Replace All Digits with Characters",
-                "links": ["https://leetcode.com/problems/replace-all-digits-with-characters/solutions/4176734/o-n-o-n/"]
             }
         ],
         "sorting": [
@@ -926,9 +922,21 @@ let data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "array": [
+            {
+                "que": "2610. Convert an Array Into a 2D Array With Conditions",
+                "links": ["https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/solutions/4180229/o-n-o-n-using-map/"]
+            },
+            {
+                "que": "1282. Group the People Given the Group Size They Belong To",
+                "links": ["https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/solutions/4180218/o-n-o-n-using-map/"]
+            },
             {
                 "que": "2215. Find the Difference of Two Arrays",
                 "links": ["https://leetcode.com/problems/find-the-difference-of-two-arrays/description/"]
@@ -1267,6 +1275,10 @@ let data = [
             }
         ],
         "string": [
+            {
+                "que": "1844. Replace All Digits with Characters",
+                "links": ["https://leetcode.com/problems/replace-all-digits-with-characters/solutions/4176734/o-n-o-n/"]
+            },
             {
                 "que": "2716. Minimize String Length",
                 "links": ["https://leetcode.com/problems/minimize-string-length/solutions/4164334/single-pass-o-n-o-1/"]
