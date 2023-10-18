@@ -926,9 +926,17 @@ let data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "array": [
+            {
+                "que": "1817. Finding the Users Active Minutes",
+                "links": ["https://leetcode.com/problems/finding-the-users-active-minutes/solutions/4183854/o-n-o-n-using-map/"]
+            },
             {
                 "que": "2610. Convert an Array Into a 2D Array With Conditions",
                 "links": ["https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/solutions/4180229/o-n-o-n-using-map/"]
