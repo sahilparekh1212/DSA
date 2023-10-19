@@ -1276,13 +1276,13 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "string": [
+            {
+                "que": "2405. Optimal Partition of String",
+                "links": ["https://leetcode.com/problems/optimal-partition-of-string/solutions/4187780/o-n-o-1/"]
+            },
             {
                 "que": "1844. Replace All Digits with Characters",
                 "links": ["https://leetcode.com/problems/replace-all-digits-with-characters/solutions/4176734/o-n-o-n/"]
