@@ -1272,13 +1272,13 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "string": [
+            {
+                "que": "763. Partition Labels",
+                "links": ["https://leetcode.com/problems/partition-labels/solutions/4187927/o-n-o-1/"]
+            },
             {
                 "que": "2405. Optimal Partition of String",
                 "links": ["https://leetcode.com/problems/optimal-partition-of-string/solutions/4187780/o-n-o-1/"]
