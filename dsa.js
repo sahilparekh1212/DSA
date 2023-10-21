@@ -930,9 +930,21 @@ let data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "array": [
+            {
+                "que": "1828. Queries on Number of Points Inside a Circle",
+                "links": ["https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/solutions/4193651/o-n-o-n/"]
+            },
             {
                 "que": "1817. Finding the Users Active Minutes",
                 "links": ["https://leetcode.com/problems/finding-the-users-active-minutes/solutions/4183854/o-n-o-n-using-map/"]
