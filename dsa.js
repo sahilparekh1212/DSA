@@ -875,6 +875,7 @@ let data = [
             }
         ],
         "sorting": [
+
             {
                 "que": "75. Sort Colors",
                 "links": [
@@ -900,8 +901,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/buy-two-chocolates/solutions/4052858/sort-array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2545. Sort the Students by Their Kth Score",
+                "links": ["https://leetcode.com/problems/sort-the-students-by-their-kth-score/solutions/4196073/o-nlogn-o-n/"]
             },
             {
                 "que": "",
