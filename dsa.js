@@ -942,6 +942,12 @@ let data = [
             }
         ],
         "array": [
+{
+"que":"2657. Find the Prefix Common Array of Two Arrays",
+"links":["
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/
+ "]
+},
             {
                 "que": "1828. Queries on Number of Points Inside a Circle",
                 "links": ["https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/solutions/4193651/o-n-o-n/"]
