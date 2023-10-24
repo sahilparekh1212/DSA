@@ -939,6 +939,10 @@ let data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "array": [
@@ -948,6 +952,10 @@ let data = [
 https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/
  "]
 },
+            {
+                "que": "2442. Count Number of Distinct Integers After Reverse Operations",
+                "links": ["https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/solutions/4205212/o-n-o-n-using-set-and-stringbuilder/"]
+            },
             {
                 "que": "1828. Queries on Number of Points Inside a Circle",
                 "links": ["https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/solutions/4193651/o-n-o-n/"]
