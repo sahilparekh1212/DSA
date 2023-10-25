@@ -1299,9 +1299,17 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "string": [
+            {
+                "que": "1347. Minimum Number of Steps to Make Two Strings Anagram",
+                "links": ["https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/solutions/4208865/o-n-o-1-using-array/"]
+            },
             {
                 "que": "763. Partition Labels",
                 "links": ["https://leetcode.com/problems/partition-labels/solutions/4187927/o-n-o-1/"]
