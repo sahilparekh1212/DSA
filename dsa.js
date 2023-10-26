@@ -1292,13 +1292,13 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "string": [
+            {
+                "que": "890. Find and Replace Pattern",
+                "links": ["https://leetcode.com/problems/find-and-replace-pattern/solutions/4212212/o-n-o-1-using-map/"]
+            },
             {
                 "que": "1347. Minimum Number of Steps to Make Two Strings Anagram",
                 "links": ["https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/solutions/4208865/o-n-o-1-using-array/"]
