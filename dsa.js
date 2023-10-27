@@ -953,6 +953,10 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
  "]
 },
             {
+                "que": "442. Find All Duplicates in an Array",
+                "links": ["https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/4215997/o-n-o-n/"]
+            },
+            {
                 "que": "2442. Count Number of Distinct Integers After Reverse Operations",
                 "links": ["https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/solutions/4205212/o-n-o-n-using-set-and-stringbuilder/"]
             },
