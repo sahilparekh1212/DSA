@@ -1663,7 +1663,7 @@ let data = [
         "set": [
             {
                 "que": "2336 Smallest Number in Infinite Set",
-                "links": ["to be uploaded"]
+                "links": ["https://leetcode.com/problems/smallest-number-in-infinite-set/solutions/4218556/using-treeset/"]
             },
             {
                 "que": "",
