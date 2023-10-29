@@ -1660,14 +1660,14 @@ let data = [
                 "links": []
             }
         ],
-        "set": [
+        "collections": [
             {
                 "que": "2336 Smallest Number in Infinite Set",
                 "links": ["https://leetcode.com/problems/smallest-number-in-infinite-set/solutions/4218556/using-treeset/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2225. Find Players With Zero or One Losses",
+                "links": ["https://leetcode.com/problems/find-players-with-zero-or-one-losses/solutions/4224227/collections-api/"]
             },
             {
                 "que": "",
