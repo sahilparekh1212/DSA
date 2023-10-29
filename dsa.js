@@ -935,14 +935,6 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "array": [
@@ -1307,6 +1299,10 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
         ],
         "string": [
             {
+                "que": "2186. Minimum Number of Steps to Make Two Strings Anagram II",
+                "links": ["https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/solutions/4223911/o-n-o-1-using-array/"]
+            },
+            {
                 "que": "890. Find and Replace Pattern",
                 "links": ["https://leetcode.com/problems/find-and-replace-pattern/solutions/4212212/o-n-o-1-using-map/"]
             },
@@ -1657,6 +1653,24 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            }
+        ],
+        "set": [
+            {
+                "que": "2336 Smallest Number in Infinite Set",
+                "links": ["https://leetcode.com/problems/smallest-number-in-infinite-set/solutions/4218556/using-treeset/"]
             },
             {
                 "que": "",
