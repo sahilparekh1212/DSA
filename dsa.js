@@ -1670,8 +1670,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/find-players-with-zero-or-one-losses/solutions/4224227/collections-api/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2482. Difference Between Ones and Zeros in Row and Column",
+                "links": ["https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4228407/using-hashmap/"]
             },
             {
                 "que": "",
