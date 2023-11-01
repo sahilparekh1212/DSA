@@ -1681,8 +1681,8 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
                 "links": ["https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4228407/using-hashmap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1381. Design a Stack With Increment Operation",
+                "links": ["https://leetcode.com/problems/design-a-stack-with-increment-operation/solutions/4234622/2-solution-list-stack/"]
             }
         ],
         "": [
