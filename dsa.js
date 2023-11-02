@@ -1284,13 +1284,13 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "string": [
+            {
+                "que": "2390. Removing Stars From a String",
+                "links": ["https://leetcode.com/problems/removing-stars-from-a-string/solutions/4241027/single-pass-o-n-o-n/"]
+            },
             {
                 "que": "2186. Minimum Number of Steps to Make Two Strings Anagram II",
                 "links": ["https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/solutions/4223911/o-n-o-1-using-array/"]
