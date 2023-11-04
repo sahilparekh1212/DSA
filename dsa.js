@@ -192,9 +192,17 @@ let data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "stack": [
+            {
+                "que": "921. Minimum Add to Make Parentheses Valid",
+                "links": ["https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solutions/4249854/o-n-o-n-using-stack/"]
+            },
             {
                 "que": "232. Implement Queue using Stacks",
                 "links": [
