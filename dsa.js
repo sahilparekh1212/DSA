@@ -200,6 +200,10 @@ let data = [
         ],
         "stack": [
             {
+                "que": "1249. Minimum Remove to Make Valid Parentheses",
+                "links": ["https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/4249979/o-n-o-n-using-stack/"]
+            },
+            {
                 "que": "921. Minimum Add to Make Parentheses Valid",
                 "links": ["https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solutions/4249854/o-n-o-n-using-stack/"]
             },
