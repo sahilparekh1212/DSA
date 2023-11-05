@@ -957,6 +957,10 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
  "]
 },
             {
+                "que": "31. Next Permutation",
+                "links": ["https://leetcode.com/problems/next-permutation/solutions/4254364/o-n-o-1/"]
+            },
+            {
                 "que": "442. Find All Duplicates in an Array",
                 "links": ["https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/4215997/o-n-o-n/"]
             },
