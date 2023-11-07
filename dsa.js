@@ -1315,6 +1315,10 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
         ],
         "string": [
             {
+                "que": "2125. Number of Laser Beams in a Bank",
+                "links": ["https://leetcode.com/problems/number-of-laser-beams-in-a-bank/solutions/4262313/o-n-o-n/"]
+            },
+            {
                 "que": "2120. Execution of All Suffix Instructions Staying in a Grid",
                 "links": ["https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/solutions/4245815/o-n-o-n/"]
             },
