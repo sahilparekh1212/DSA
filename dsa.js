@@ -1300,13 +1300,13 @@ let data = [
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "string": [
+            {
+                "que": "2785. Sort Vowels in a String",
+                "links": ["https://leetcode.com/problems/sort-vowels-in-a-string/solutions/4266474/using-heap/"]
+            },
             {
                 "que": "2125. Number of Laser Beams in a Bank",
                 "links": ["https://leetcode.com/problems/number-of-laser-beams-in-a-bank/solutions/4262313/o-n-o-n/"]
