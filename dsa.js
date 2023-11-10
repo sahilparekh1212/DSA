@@ -1304,6 +1304,10 @@ let data = [
         ],
         "string": [
             {
+                "que": "811. Subdomain Visit Count",
+                "links": ["https://leetcode.com/problems/subdomain-visit-count/solutions/4270775/using-map/"]
+            },
+            {
                 "que": "2785. Sort Vowels in a String",
                 "links": ["https://leetcode.com/problems/sort-vowels-in-a-string/solutions/4266474/using-heap/"]
             },
