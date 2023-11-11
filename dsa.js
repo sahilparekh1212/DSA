@@ -1303,13 +1303,13 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
             {
                 "que": "",
                 "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "string": [
+            {
+                "que": "1910. Remove All Occurrences of a Substring",
+                "links": ["https://leetcode.com/problems/remove-all-occurrences-of-a-substring/solutions/4277322/using-while-loop/"]
+            },
             {
                 "que": "811. Subdomain Visit Count",
                 "links": ["https://leetcode.com/problems/subdomain-visit-count/solutions/4270775/using-map/"]
