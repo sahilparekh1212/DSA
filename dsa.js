@@ -1727,6 +1727,10 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
             {
                 "que": "1381. Design a Stack With Increment Operation",
                 "links": ["https://leetcode.com/problems/design-a-stack-with-increment-operation/solutions/4234622/2-solution-list-stack/"]
+            },
+            {
+                "que": "1418. Display Table of Food Orders in a Restaurant",
+                "links": ["https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/solutions/4284918/using-map/"]
             }
         ],
         "": [
