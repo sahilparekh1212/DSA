@@ -1731,12 +1731,28 @@ https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutio
             {
                 "que": "1418. Display Table of Food Orders in a Restaurant",
                 "links": ["https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/solutions/4284918/using-map/"]
+            },
+            {
+                "que": "1396. Design Underground System",
+                "links": ["https://leetcode.com/problems/design-underground-system/solutions/4292552/using-map/"]
+            },
+            {
+                "que": "",
+                "links": [""]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "": [
             {
                 "que": "",
-                "links": []
+                "links": [""]
             },
             {
                 "que": "",
