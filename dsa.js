@@ -1730,8 +1730,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/design-underground-system/solutions/4292552/using-map/"]
             },
             {
-                "que": "",
-                "links": [""]
+                "que": "2161. Partition Array According to Given Pivot",
+                "links": ["https://leetcode.com/problems/partition-array-according-to-given-pivot/solutions/4292696/o-n-o-n-using-stack/"]
             },
             {
                 "que": "",
