@@ -2,6 +2,12 @@ let data = [
     {
         "tree": [
             {
+                "que": "1302. Deepest Leaves Sum",
+                "links": [
+                    "https://leetcode.com/problems/deepest-leaves-sum/solutions/4306858/o-n-o-1-bfs/"
+                ]
+            },
+            {
                 "que": "199. Binary Tree Right Side View",
                 "links": [
                     "https://leetcode.com/problems/binary-tree-right-side-view/solutions/3602538/o-n-o-n-simple-java-recursive-solution/"
