@@ -2,9 +2,13 @@ let data = [
     {
         "tree": [
             {
+                "que": "1315. Sum of Nodes with Even-Valued Grandparent",
+                "links": ["https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/solutions/4318792/o-n-o-n/"]
+            },
+            {
                 "que": "1302. Deepest Leaves Sum",
                 "links": [
-                    "https://leetcode.com/problems/deepest-leaves-sum/solutions/4306858/o-n-o-1-bfs/"
+                    "https://leetcode.com/problems/deepest-leaves-sum/solutions/4306858/o-n-o-n-bfs/"
                 ]
             },
             {
