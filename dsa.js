@@ -2,6 +2,16 @@ let data = [
     {
         "tree": [
             {
+                "que": "1315. Sum of Nodes with Even-Valued Grandparent",
+                "links": ["https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/solutions/4318792/o-n-o-n/"]
+            },
+            {
+                "que": "1302. Deepest Leaves Sum",
+                "links": [
+                    "https://leetcode.com/problems/deepest-leaves-sum/solutions/4306858/o-n-o-n-bfs/"
+                ]
+            },
+            {
                 "que": "199. Binary Tree Right Side View",
                 "links": [
                     "https://leetcode.com/problems/binary-tree-right-side-view/solutions/3602538/o-n-o-n-simple-java-recursive-solution/"
