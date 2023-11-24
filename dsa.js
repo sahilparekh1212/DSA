@@ -2,6 +2,10 @@ let data = [
     {
         "tree": [
             {
+                "que": "2415. Reverse Odd Levels of Binary Tree",
+                "links": ["https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/solutions/4326339/recursive-solution/"]
+            },
+            {
                 "que": "1315. Sum of Nodes with Even-Valued Grandparent",
                 "links": ["https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/solutions/4318792/o-n-o-n/"]
             },
