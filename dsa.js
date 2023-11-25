@@ -196,12 +196,12 @@ let data = [
                 "links": ["https://leetcode.com/problems/invert-binary-tree/solutions/4135651/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1038. Binary Search Tree to Greater Sum Tree",
+                "links": ["https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/solutions/4330003/using-array-running-sum/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "538. Convert BST to Greater Tree",
+                "links": ["https://leetcode.com/problems/convert-bst-to-greater-tree/solutions/4330007/array-running-sum/"]
             },
             {
                 "que": "",
