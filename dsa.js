@@ -204,8 +204,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/convert-bst-to-greater-tree/solutions/4330007/array-running-sum/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2265. Count Nodes Equal to Average of Subtree",
+                "links": ["https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/solutions/4333545/postorder/"]
             },
             {
                 "que": "",
