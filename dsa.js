@@ -208,6 +208,22 @@ let data = [
                 "links": ["https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/solutions/4333545/postorder/"]
             },
             {
+                "que": "1305. All Elements in Two Binary Search Trees",
+                "links": ["https://leetcode.com/problems/all-elements-in-two-binary-search-trees/solutions/4340993/traversal-and-sorting/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             }
