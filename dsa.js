@@ -212,8 +212,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/all-elements-in-two-binary-search-trees/solutions/4340993/traversal-and-sorting/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1382. Balance a Binary Search Tree",
+                "links": ["https://leetcode.com/problems/balance-a-binary-search-tree/solutions/4348207/o-n-o-n/"]
             },
             {
                 "que": "",
