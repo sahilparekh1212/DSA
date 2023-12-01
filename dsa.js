@@ -216,8 +216,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/balance-a-binary-search-tree/solutions/4348207/o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "654. Maximum Binary Tree",
+                "links": ["https://leetcode.com/problems/maximum-binary-tree/solutions/4351922/using-map/"]
             },
             {
                 "que": "",
