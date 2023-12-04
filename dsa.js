@@ -220,8 +220,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/maximum-binary-tree/solutions/4351922/using-map/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1261. Find Elements in a Contaminated Binary Tree",
+                "links": ["https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/solutions/4359408/using-set/"]
             },
             {
                 "que": "",
