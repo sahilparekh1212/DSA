@@ -224,8 +224,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/solutions/4359408/using-set/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1026. Maximum Difference Between Node and Ancestor",
+                "links": ["https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/solutions/4372481/recursive/"]
             }
         ],
         "stack": [
