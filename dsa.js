@@ -2,6 +2,26 @@ let data = [
     {
         "tree": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "1325. Delete Leaves With a Given Value",
+                "links": ["https://leetcode.com/problems/delete-leaves-with-a-given-value/solutions/4376505/recursion/"]
+            },
+            {
                 "que": "2415. Reverse Odd Levels of Binary Tree",
                 "links": ["https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/solutions/4326339/recursive-solution/"]
             },
