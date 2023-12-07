@@ -14,8 +14,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "515. Find Largest Value in Each Tree Row",
+                "links": ["https://leetcode.com/problems/find-largest-value-in-each-tree-row/solutions/4376573/o-n-o-n-using-queue/"]
             },
             {
                 "que": "1325. Delete Leaves With a Given Value",
