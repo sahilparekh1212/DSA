@@ -10,8 +10,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "114. Flatten Binary Tree to Linked List",
+                "links": ["https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4383441/recursion/"]
             },
             {
                 "que": "515. Find Largest Value in Each Tree Row",
