@@ -406,8 +406,8 @@ let data = [
                 ]
             },
             {
-                "que": "",
-                "links": []
+                "que": "295. Find Median from Data Stream",
+                "links": ["https://leetcode.com/problems/find-median-from-data-stream/solutions/4397417/o-logn-o-n/"]
             },
             {
                 "que": "",
