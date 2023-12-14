@@ -6,8 +6,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1008. Construct Binary Search Tree from Preorder Traversal",
+                "links": ["https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/solutions/4401845/o-n-o-n/"]
             },
             {
                 "que": "114. Flatten Binary Tree to Linked List",
