@@ -2,8 +2,8 @@ let data = [
     {
         "tree": [
             {
-                "que": "",
-                "links": []
+                "que": "1373. Maximum Sum BST in Binary Tree",
+                "links": ["https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4410428/o-n-o-n/"]
             },
             {
                 "que": "1008. Construct Binary Search Tree from Preorder Traversal",
