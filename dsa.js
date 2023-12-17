@@ -2,6 +2,10 @@ let data = [
     {
         "tree": [
             {
+                "que": "1123. Lowest Common Ancestor of Deepest Leaves",
+                "links": ["https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/solutions/4418084/o-n-o-n/"]
+            },
+            {
                 "que": "1373. Maximum Sum BST in Binary Tree",
                 "links": ["https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4410428/o-n-o-n/"]
             },
