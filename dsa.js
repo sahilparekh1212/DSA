@@ -2,6 +2,10 @@ let data = [
     {
         "tree": [
             {
+                "que": "1372. Longest ZigZag Path in a Binary Tree",
+                "links": ["https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/solutions/4438606/dfs/"]
+            },
+            {
                 "que": "297. Serialize and Deserialize Binary Tree",
                 "links": ["https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solutions/4427166/1-preorder-traversal-stringbuilder/"]
             }
