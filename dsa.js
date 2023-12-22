@@ -1016,12 +1016,10 @@ let data = [
             }
         ],
         "array": [
-{
-"que":"2657. Find the Prefix Common Array of Two Arrays",
-"links":["
-https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/
- "]
-},
+            {
+                "que": "2657. Find the Prefix Common Array of Two Arrays",
+                "links": ["https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/"]
+            },
             {
                 "que": "31. Next Permutation",
                 "links": ["https://leetcode.com/problems/next-permutation/solutions/4254364/o-n-o-1/"]
