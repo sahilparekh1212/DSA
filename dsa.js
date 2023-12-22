@@ -949,6 +949,7 @@ let data = [
             }
         ],
         "sorting": [
+
             {
                 "que": "75. Sort Colors",
                 "links": [
@@ -976,6 +977,10 @@ let data = [
             {
                 "que": "1561. Maximum Number of Coins You Can Get",
                 "links": ["https://leetcode.com/problems/maximum-number-of-coins-you-can-get/solutions/4438436/sort-and-sum/"]
+            },
+            {
+                "que": "2545. Sort the Students by Their Kth Score",
+                "links": ["https://leetcode.com/problems/sort-the-students-by-their-kth-score/solutions/4196073/o-nlogn-o-n/"]
             },
             {
                 "que": "",
@@ -1011,6 +1016,12 @@ let data = [
             }
         ],
         "array": [
+{
+"que":"2657. Find the Prefix Common Array of Two Arrays",
+"links":["
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/
+ "]
+},
             {
                 "que": "31. Next Permutation",
                 "links": ["https://leetcode.com/problems/next-permutation/solutions/4254364/o-n-o-1/"]
