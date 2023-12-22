@@ -971,6 +971,10 @@ let data = [
                 "links": ["https://leetcode.com/problems/buy-two-chocolates/solutions/4052858/sort-array/"]
             },
             {
+                "que": "1561. Maximum Number of Coins You Can Get",
+                "links": ["https://leetcode.com/problems/maximum-number-of-coins-you-can-get/solutions/4438436/sort-and-sum/"]
+            },
+            {
                 "que": "2545. Sort the Students by Their Kth Score",
                 "links": ["https://leetcode.com/problems/sort-the-students-by-their-kth-score/solutions/4196073/o-nlogn-o-n/"]
             },
