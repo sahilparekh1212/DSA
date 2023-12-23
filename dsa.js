@@ -824,8 +824,8 @@ let data = [
                 ]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1557. Minimum Number of Vertices to Reach All Nodes",
+                "links": ["https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/solutions/4448890/1-traversal-solution/"]
             },
             {
                 "que": "",
