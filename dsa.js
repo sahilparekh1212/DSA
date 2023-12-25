@@ -1829,8 +1829,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/partition-array-according-to-given-pivot/solutions/4292696/o-n-o-n-using-stack/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1268. Search Suggestions System",
+                "links": ["https://leetcode.com/problems/search-suggestions-system/solutions/4458069/sort-search/"]
             },
             {
                 "que": "",
