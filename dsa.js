@@ -438,8 +438,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/solutions/4458245/max-heap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2285. Maximum Total Importance of Roads",
+                "links": ["https://leetcode.com/problems/maximum-total-importance-of-roads/solutions/4458509/2-solutions-array-max-heap/"]
             },
             {
                 "que": "",
