@@ -423,7 +423,31 @@ let data = [
             },
             {
                 "que": "1845. Seat Reservation Manager",
-                "links": ["https://leetcode.com/problems/seat-reservation-manager/solutions/4457248/array-and-min-heap-o-1-o-1/"]
+                "links": ["https://leetcode.com/problems/seat-reservation-manager/solutions/4457248/array-and-min-heap-o-logn-o-1/"]
+            },
+            {
+                "que": "1338. Reduce Array Size to The Half",
+                "links": ["https://leetcode.com/problems/reduce-array-size-to-the-half/solutions/4457365/maxheap-and-hashmap-o-nlogn-o-n/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
             },
             {
                 "que": "",
