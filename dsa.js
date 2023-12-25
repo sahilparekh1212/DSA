@@ -434,8 +434,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/maximum-score-from-removing-stones/solutions/4458201/maxheap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "378. Kth Smallest Element in a Sorted Matrix",
+                "links": ["https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/solutions/4458245/max-heap/"]
             },
             {
                 "que": "",
