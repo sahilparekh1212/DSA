@@ -422,8 +422,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/find-median-from-data-stream/solutions/4397417/o-logn-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1845. Seat Reservation Manager",
+                "links": ["https://leetcode.com/problems/seat-reservation-manager/solutions/4457248/array-and-min-heap-o-1-o-1/"]
             },
             {
                 "que": "",
