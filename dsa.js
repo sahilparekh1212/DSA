@@ -430,8 +430,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/reduce-array-size-to-the-half/solutions/4457365/maxheap-and-hashmap-o-nlogn-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1753. Maximum Score From Removing Stones",
+                "links": ["https://leetcode.com/problems/maximum-score-from-removing-stones/solutions/4458201/maxheap/"]
             },
             {
                 "que": "",
@@ -1831,6 +1831,22 @@ let data = [
             {
                 "que": "1268. Search Suggestions System",
                 "links": ["https://leetcode.com/problems/search-suggestions-system/solutions/4458069/sort-search/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
             },
             {
                 "que": "",
