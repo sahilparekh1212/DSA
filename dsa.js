@@ -442,8 +442,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/maximum-total-importance-of-roads/solutions/4458509/2-solutions-array-max-heap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1962. Remove Stones to Minimize the Total",
+                "links": ["https://leetcode.com/problems/remove-stones-to-minimize-the-total/solutions/4458650/max-heap-o-nlogn-o-n/"]
             },
             {
                 "que": "",
