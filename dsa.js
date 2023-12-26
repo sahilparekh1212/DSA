@@ -442,16 +442,16 @@ let data = [
                 "links": ["https://leetcode.com/problems/maximum-total-importance-of-roads/solutions/4458509/2-solutions-array-max-heap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1962. Remove Stones to Minimize the Total",
+                "links": ["https://leetcode.com/problems/remove-stones-to-minimize-the-total/solutions/4458650/max-heap-o-nlogn-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "692. Top K Frequent Words",
+                "links": ["https://leetcode.com/problems/top-k-frequent-words/solutions/4458682/max-heap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2679. Sum in a Matrix",
+                "links": ["https://leetcode.com/problems/sum-in-a-matrix/solutions/4458711/max-heap/"]
             },
             {
                 "que": "",
@@ -1040,6 +1040,10 @@ let data = [
             }
         ],
         "array": [
+            // {
+            //     "que": "1877. Minimize Maximum Pair Sum in Array__Pending_Ans_Upload",
+            //     "links": ["https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/"]
+            // },
             {
                 "que": "2657. Find the Prefix Common Array of Two Arrays",
                 "links": ["https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/"]
