@@ -1040,6 +1040,10 @@ let data = [
             }
         ],
         "array": [
+            // {
+            //     "que": "1877. Minimize Maximum Pair Sum in Array__Pending_Ans_Upload",
+            //     "links": ["https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/"]
+            // },
             {
                 "que": "2657. Find the Prefix Common Array of Two Arrays",
                 "links": ["https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/"]
