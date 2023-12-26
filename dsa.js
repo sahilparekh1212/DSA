@@ -446,8 +446,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/remove-stones-to-minimize-the-total/solutions/4458650/max-heap-o-nlogn-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "692. Top K Frequent Words",
+                "links": ["https://leetcode.com/problems/top-k-frequent-words/solutions/4458682/max-heap/"]
             },
             {
                 "que": "",
