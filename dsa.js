@@ -454,6 +454,34 @@ let data = [
                 "links": ["https://leetcode.com/problems/sum-in-a-matrix/solutions/4458711/max-heap/"]
             },
             {
+                "que": "1833. Maximum Ice Cream Bars",
+                "links": ["https://leetcode.com/problems/maximum-ice-cream-bars/solutions/4462718/min-heap/"]
+            },
+            {
+                "que": "1887. Reduction Operations to Make the Array Elements Equal",
+                "links": ["https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/solutions/4462820/2-solutions-array-max-heap/"]
+            },
+            {
+                "que": "2410. Maximum Matching of Players With Trainers",
+                "links": ["https://leetcode.com/problems/maximum-matching-of-players-with-trainers/solutions/4463236/max-heap/"]
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "",
                 "links": []
             }
@@ -1007,20 +1035,20 @@ let data = [
                 "links": ["https://leetcode.com/problems/sort-the-students-by-their-kth-score/solutions/4196073/o-nlogn-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2491. Divide Players Into Teams of Equal Skill",
+                "links": ["https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/solutions/4463351/sort-array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "881. Boats to Save People",
+                "links": ["Submitted but creation of solution link is pending"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1481. Least Number of Unique Integers after K Removals",
+                "links": ["Submitted but creation of solution link is pending"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "720. Longest Word in Dictionary",
+                "links": ["Submitted but creation of solution link is pending"]
             },
             {
                 "que": "",
@@ -1040,10 +1068,10 @@ let data = [
             }
         ],
         "array": [
-            // {
-            //     "que": "1877. Minimize Maximum Pair Sum in Array__Pending_Ans_Upload",
-            //     "links": ["https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/"]
-            // },
+            {
+                "que": "1877. Minimize Maximum Pair Sum in Array",
+                "links": ["https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/solutions/4461951/sorting-o-nlogn-o-1/"]
+            },
             {
                 "que": "2657. Find the Prefix Common Array of Two Arrays",
                 "links": ["https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/4201012/o-n-o-n/"]
@@ -1583,12 +1611,12 @@ let data = [
                 "links": ["https://leetcode.com/problems/destination-city/solutions/4135732/o-n-o-n-using-map/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "49. Group Anagrams",
+                "links": ["https://leetcode.com/problems/group-anagrams/solutions/4463010/sorting-hash-map/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1170. Compare Strings by Frequency of the Smallest Character",
+                "links": ["https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/solutions/4463313/sort-array/"]
             },
             {
                 "que": "",
@@ -1837,8 +1865,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/search-suggestions-system/solutions/4458069/sort-search/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1451. Rearrange Words in a Sentence",
+                "links": ["https://leetcode.com/problems/rearrange-words-in-a-sentence/solutions/4463075/hash-map-tree-set/"]
             },
             {
                 "que": "",
