@@ -258,6 +258,38 @@ let data = [
             {
                 "que": "1026. Maximum Difference Between Node and Ancestor",
                 "links": ["https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/solutions/4372481/recursive/"]
+            },
+            {
+                "que": "429. N-ary Tree Level Order Traversal",
+                "links": ["https://leetcode.com/problems/n-ary-tree-level-order-traversal/solutions/4468583/queue/"]
+            },
+            {
+                "que": "1161. Maximum Level Sum of a Binary Tree",
+                "links": ["https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/solutions/4468609/level-order-traversal-o-n-o-n/"]
+            },
+            {
+                "que": "107. Binary Tree Level Order Traversal II",
+                "links": ["https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/4468621/o-n-o-n/"]
+            },
+            {
+                "que": "1609. Even Odd Tree",
+                "links": ["https://leetcode.com/problems/even-odd-tree/solutions/4468924/level-order-traversal/"]
+            },
+            {
+                "que": "",
+                "links": [""]
+            },
+            {
+                "que": "",
+                "links": [""]
+            },
+            {
+                "que": "",
+                "links": [""]
+            },
+            {
+                "que": "",
+                "links": [""]
             }
         ],
         "stack": [
@@ -1337,8 +1369,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/find-target-indices-after-sorting-array/solutions/4147416/1-pass-o-n-o-n/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2149. Rearrange Array Elements by Sign",
+                "links": ["https://leetcode.com/problems/rearrange-array-elements-by-sign/solutions/4468519/queue/"]
             },
             {
                 "que": "",
@@ -1867,10 +1899,6 @@ let data = [
             {
                 "que": "1451. Rearrange Words in a Sentence",
                 "links": ["https://leetcode.com/problems/rearrange-words-in-a-sentence/solutions/4463075/hash-map-tree-set/"]
-            },
-            {
-                "que": "",
-                "links": []
             },
             {
                 "que": "",
