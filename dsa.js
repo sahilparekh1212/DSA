@@ -1373,8 +1373,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/rearrange-array-elements-by-sign/solutions/4468519/queue/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2043. Simple Bank System",
+                "links": ["https://leetcode.com/problems/simple-bank-system/solutions/4472671/array/"]
             },
             {
                 "que": "",
