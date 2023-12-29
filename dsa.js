@@ -1083,8 +1083,8 @@ let data = [
                 "links": ["Submitted but creation of solution link is pending"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "164. Maximum Gap",
+                "links": ["https://leetcode.com/problems/maximum-gap/solutions/4472303/2-java-solutions-sort-maxheap/"]
             },
             {
                 "que": "",
@@ -1901,8 +1901,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/rearrange-words-in-a-sentence/solutions/4463075/hash-map-tree-set/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1357. Apply Discount Every n Orders",
+                "links": ["https://leetcode.com/problems/apply-discount-every-n-orders/solutions/4472492/hash-map/"]
             },
             {
                 "que": "",
