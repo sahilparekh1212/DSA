@@ -1377,8 +1377,8 @@ let data = [
                 "links": ["https://leetcode.com/problems/simple-bank-system/solutions/4472671/array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1441. Build an Array With Stack Operations",
+                "links": ["https://leetcode.com/problems/build-an-array-with-stack-operations/solutions/4478859/for-loop-with-2-condition/"]
             },
             {
                 "que": "",
