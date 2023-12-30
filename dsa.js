@@ -2456,8 +2456,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1352. Product of the Last K Numbers",
+                "links": ["https://leetcode.com/problems/product-of-the-last-k-numbers/solutions/4480393/list/"]
             },
             {
                 "que": "1670. Design Front Middle Back Queue",
