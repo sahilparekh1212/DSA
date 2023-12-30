@@ -2,6 +2,46 @@ let data = [
     {
         "tree": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "1372. Longest ZigZag Path in a Binary Tree",
                 "links": ["https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/solutions/4438606/dfs/"]
             },
@@ -294,6 +334,38 @@ let data = [
         ],
         "stack": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "1249. Minimum Remove to Make Valid Parentheses",
                 "links": ["https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/4249979/o-n-o-n-using-stack/"]
             },
@@ -379,6 +451,30 @@ let data = [
             }
         ],
         "heap": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "1337. The K Weakest Rows in a Matrix",
                 "links": ["https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solutions/4139971/minheap/"]
@@ -520,6 +616,62 @@ let data = [
         ],
         "binarySearch": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "1011. Capacity To Ship Packages Within D Days",
                 "links": [
                     "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/solutions/3752370/binary-search/"
@@ -624,6 +776,38 @@ let data = [
         ],
         "recursion": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "46. Permutations",
                 "links": [
                     "https://leetcode.com/problems/permutations/solutions/3570005/2-java-recursive-solutions/"
@@ -702,6 +886,30 @@ let data = [
         ],
         "greedy": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "1221. Split a String in Balanced Strings",
                 "links": [
                     "https://leetcode.com/problems/split-a-string-in-balanced-strings/solutions/3770926/for-loop/"
@@ -733,6 +941,54 @@ let data = [
             }
         ],
         "graph": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "1971. Find if Path Exists in Graph",
                 "links": [
@@ -942,6 +1198,54 @@ let data = [
         ],
         "dynamicProgramming": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "70. Climbing Stairs",
                 "links": [
                     "https://leetcode.com/problems/climbing-stairs/solutions/3868776/1d-dp/"
@@ -1033,7 +1337,30 @@ let data = [
             }
         ],
         "sorting": [
-
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "75. Sort Colors",
                 "links": [
@@ -1100,6 +1427,54 @@ let data = [
             }
         ],
         "array": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "1877. Minimize Maximum Pair Sum in Array",
                 "links": ["https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/solutions/4461951/sorting-o-nlogn-o-1/"]
@@ -1387,9 +1762,73 @@ let data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
             }
         ],
         "linkedList": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "876. Middle of the Linked List",
                 "links": [
@@ -1466,6 +1905,70 @@ let data = [
             }
         ],
         "string": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "609. Find Duplicate File in System",
                 "links": ["https://leetcode.com/problems/find-duplicate-file-in-system/solutions/4280141/o-n-o-n-using-map/"]
@@ -1661,6 +2164,22 @@ let data = [
         ],
         "maths": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "2520. Count the Digits That Divide a Number",
                 "links": [
                     "https://leetcode.com/problems/count-the-digits-that-divide-a-number/solutions/4151826/single-pass-o-logn-o-1/"
@@ -1714,6 +2233,22 @@ let data = [
             }
         ],
         "BFS": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
             {
                 "que": "200. Number of Islands",
                 "links": [
@@ -1807,6 +2342,38 @@ let data = [
         ],
         "slidingWindow": [
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "485. Max Consecutive Ones",
                 "links": ["https://leetcode.com/problems/max-consecutive-ones/solutions/3667777/one-pass-o-n-o-1-2-solution/"]
             },
@@ -1864,6 +2431,46 @@ let data = [
             }
         ],
         "collections": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "1670. Design Front Middle Back Queue",
+                "links": ["https://leetcode.com/problems/design-front-middle-back-queue/solutions/4480266/list/"]
+            },
+            {
+                "que": "622. Design Circular Queue",
+                "links": ["https://leetcode.com/problems/design-circular-queue/solutions/4480190/list/"]
+            },
+            {
+                "que": "1823. Find the Winner of the Circular Game",
+                "links": ["https://leetcode.com/problems/find-the-winner-of-the-circular-game/solutions/4480143/queue-while-loop/"]
+            },
             {
                 "que": "2336 Smallest Number in Infinite Set",
                 "links": ["https://leetcode.com/problems/smallest-number-in-infinite-set/solutions/4218556/using-treeset/"]
