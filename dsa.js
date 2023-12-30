@@ -2460,12 +2460,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1670. Design Front Middle Back Queue",
+                "links": ["https://leetcode.com/problems/design-front-middle-back-queue/solutions/4480266/list/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "622. Design Circular Queue",
+                "links": ["https://leetcode.com/problems/design-circular-queue/solutions/4480190/list/"]
             },
             {
                 "que": "1823. Find the Winner of the Circular Game",
