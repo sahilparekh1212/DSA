@@ -1822,8 +1822,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2130. Maximum Twin Sum of a Linked List",
+                "links": ["https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/solutions/4483674/stack/"]
             },
             {
                 "que": "445. Add Two Numbers II",
