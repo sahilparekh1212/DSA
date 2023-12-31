@@ -1472,8 +1472,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "80. Remove Duplicates from Sorted Array II",
+                "links": ["https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/4484724/2-pointers/"]
             },
             {
                 "que": "1877. Minimize Maximum Pair Sum in Array",
@@ -2444,8 +2444,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "641. Design Circular Deque",
+                "links": ["https://leetcode.com/problems/design-circular-deque/solutions/4484769/list/"]
             },
             {
                 "que": "1019. Next Greater Node In Linked List",
