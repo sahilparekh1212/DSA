@@ -2452,8 +2452,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2526. Find Consecutive Integers from a Data Stream",
+                "links": ["https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/solutions/4480502/o-1-o-1/"]
             },
             {
                 "que": "1352. Product of the Last K Numbers",
