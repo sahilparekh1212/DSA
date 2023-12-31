@@ -1826,8 +1826,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "445. Add Two Numbers II",
+                "links": ["https://leetcode.com/problems/add-two-numbers-ii/solutions/4480552/stack/"]
             },
             {
                 "que": "876. Middle of the Linked List",
@@ -2448,8 +2448,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1019. Next Greater Node In Linked List",
+                "links": ["https://leetcode.com/problems/next-greater-node-in-linked-list/solutions/4480672/stack-map/"]
             },
             {
                 "que": "2526. Find Consecutive Integers from a Data Stream",
