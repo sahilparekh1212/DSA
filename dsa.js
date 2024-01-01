@@ -2440,8 +2440,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1807. Evaluate the Bracket Pairs of a String",
+                "links": ["https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/solutions/4489412/map/"]
             },
             {
                 "que": "641. Design Circular Deque",
