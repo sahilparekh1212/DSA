@@ -1358,8 +1358,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2279. Maximum Bags With Full Capacity of Rocks",
+                "links": ["https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/solutions/4489559/sort-the-list/"]
             },
             {
                 "que": "75. Sort Colors",
@@ -1465,7 +1465,7 @@ let data = [
             },
             {
                 "que": "",
-                "links": []
+                "links": [""]
             },
             {
                 "que": "12. Integer to Roman",
