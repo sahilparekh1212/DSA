@@ -1358,8 +1358,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2279. Maximum Bags With Full Capacity of Rocks",
+                "links": ["https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/solutions/4489559/sort-the-list/"]
             },
             {
                 "que": "75. Sort Colors",
@@ -1464,12 +1464,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2079. Watering Plants",
+                "links": ["https://leetcode.com/problems/watering-plants/solutions/4502250/array-single-pass/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "12. Integer to Roman",
+                "links": ["https://leetcode.com/problems/integer-to-roman/solutions/4489465/array/"]
             },
             {
                 "que": "80. Remove Duplicates from Sorted Array II",
@@ -2436,8 +2436,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2391. Minimum Amount of Time to Collect Garbage",
+                "links": ["https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/solutions/4495103/map/"]
             },
             {
                 "que": "1807. Evaluate the Bracket Pairs of a String",
