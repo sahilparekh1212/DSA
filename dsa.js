@@ -1460,8 +1460,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2105. Watering Plants II",
+                "links": ["https://leetcode.com/problems/watering-plants-ii/solutions/4502361/array/"]
             },
             {
                 "que": "2079. Watering Plants",
