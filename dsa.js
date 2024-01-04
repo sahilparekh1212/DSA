@@ -1464,8 +1464,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": [""]
+                "que": "2079. Watering Plants",
+                "links": ["https://leetcode.com/problems/watering-plants/solutions/4502250/array-single-pass/"]
             },
             {
                 "que": "12. Integer to Roman",
@@ -2436,8 +2436,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2391. Minimum Amount of Time to Collect Garbage",
+                "links": ["https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/solutions/4495103/map/"]
             },
             {
                 "que": "1807. Evaluate the Bracket Pairs of a String",
