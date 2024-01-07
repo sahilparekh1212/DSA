@@ -2362,8 +2362,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1695. Maximum Erasure Value",
+                "links": ["https://leetcode.com/problems/maximum-erasure-value/solutions/4525529/sliding-window/"]
             },
             {
                 "que": "1456. Maximum Number of Vowels in a Substring of Given Length",
