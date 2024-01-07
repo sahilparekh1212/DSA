@@ -2366,12 +2366,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1456. Maximum Number of Vowels in a Substring of Given Length",
+                "links": ["https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/4525444/sliding-window/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+                "links": ["https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solutions/4525270/sliding-window/"]
             },
             {
                 "que": "485. Max Consecutive Ones",
