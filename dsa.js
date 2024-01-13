@@ -2354,12 +2354,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "239. Sliding Window Maximum",
+                "links": ["https://leetcode.com/problems/sliding-window-maximum/solutions/4560984/sliding-window/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "438. Find All Anagrams in a String",
+                "links": ["https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/4560798/array-single-pass-constant-space/"]
             },
             {
                 "que": "1695. Maximum Erasure Value",
