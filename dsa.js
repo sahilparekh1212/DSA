@@ -2350,8 +2350,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1838. Frequency of the Most Frequent Element",
+                "links": ["https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/4566890/sliding-window-after-sorting/"]
             },
             {
                 "que": "239. Sliding Window Maximum",
