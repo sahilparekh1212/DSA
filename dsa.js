@@ -2079,7 +2079,7 @@ let data = [
             },
             {
                 "que": "2194. Cells in a Range on an Excel Sheet",
-                "links": ["https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/4028714/o-n-o-n/"]
+                "links": ["https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/solutions/4028714/for-loops/"]
             },
             {
                 "que": "2325. Decode the Message",
