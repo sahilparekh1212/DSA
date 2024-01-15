@@ -1966,8 +1966,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "187. Repeated DNA Sequences",
+                "links": ["https://leetcode.com/problems/repeated-dna-sequences/solutions/4566928/hashset/"]
             },
             {
                 "que": "609. Find Duplicate File in System",
