@@ -2346,8 +2346,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "567. Permutation in String",
+                "links": ["https://leetcode.com/problems/permutation-in-string/solutions/4567236/o-1-space-sliding-window/"]
             },
             {
                 "que": "1838. Frequency of the Most Frequent Element",
