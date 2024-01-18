@@ -986,8 +986,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2368. Reachable Nodes With Restrictions",
+                "links": ["https://leetcode.com/problems/reachable-nodes-with-restrictions/solutions/4584192/bfs/"]
             },
             {
                 "que": "1971. Find if Path Exists in Graph",
