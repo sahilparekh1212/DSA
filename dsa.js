@@ -982,8 +982,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2924. Find Champion II",
+                "links": ["https://leetcode.com/problems/find-champion-ii/solutions/4584379/boolean-array/"]
             },
             {
                 "que": "2368. Reachable Nodes With Restrictions",
