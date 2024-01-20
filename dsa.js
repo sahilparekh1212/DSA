@@ -38,8 +38,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2196. Create Binary Tree From Descriptions",
+                "links": ["https://leetcode.com/problems/create-binary-tree-from-descriptions/solutions/4599464/map-set/"]
             },
             {
                 "que": "1372. Longest ZigZag Path in a Binary Tree",
@@ -978,8 +978,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2374. Node With Highest Edge Score",
+                "links": ["https://leetcode.com/problems/node-with-highest-edge-score/solutions/4589992/array/"]
             },
             {
                 "que": "2924. Find Champion II",
