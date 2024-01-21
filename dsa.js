@@ -34,8 +34,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "513. Find Bottom Left Tree Value",
+                "links": ["https://leetcode.com/problems/find-bottom-left-tree-value/solutions/4605794/level-order-traversal/"]
             },
             {
                 "que": "2196. Create Binary Tree From Descriptions",
