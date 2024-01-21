@@ -26,8 +26,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "129. Sum Root to Leaf Numbers",
+                "links": ["https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/4605899/recursion/"]
             },
             {
                 "que": "2385. Amount of Time for Binary Tree to Be Infected",
