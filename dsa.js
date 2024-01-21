@@ -30,8 +30,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2385. Amount of Time for Binary Tree to Be Infected",
+                "links": ["https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/solutions/4605864/bfs/"]
             },
             {
                 "que": "513. Find Bottom Left Tree Value",
