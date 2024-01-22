@@ -22,8 +22,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": 988. Smallest String Starting From Leaf"",
+                "links":" https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/4611295/dfs" ]
             },
             {
                 "que": "129. Sum Root to Leaf Numbers",
