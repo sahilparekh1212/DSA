@@ -970,8 +970,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "684. Redundant Connection",
+                "links": ["https://leetcode.com/problems/redundant-connection/solutions/4616339/union-find-with-boolean/"]
             },
             {
                 "que": "133. Clone Graph",
