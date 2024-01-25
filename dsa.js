@@ -966,8 +966,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "695. Max Area of Island",
+                "links": ["https://leetcode.com/problems/max-area-of-island/solutions/4626694/readable-union-find/"]
             },
             {
                 "que": "684. Redundant Connection",
