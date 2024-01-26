@@ -962,8 +962,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1584. Min Cost to Connect All Points",
+                "links": ["https://leetcode.com/problems/min-cost-to-connect-all-points/solutions/4626831/readable-disjoint-set-union/"]
             },
             {
                 "que": "695. Max Area of Island",
