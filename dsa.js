@@ -1452,12 +1452,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2658. Maximum Number of Fish in a Grid",
+                "links": ["https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/4640519/array/"]
             },
             {
                 "que": "1267. Count Servers that Communicate",
-                "links": ["pending upload - https://leetcode.com/problems/count-servers-that-communicate/solutions/4640380/array-frequency-count/"]
+                "links": ["https://leetcode.com/problems/count-servers-that-communicate/solutions/4640380/array-frequency-count/"]
             },
             {
                 "que": "2105. Watering Plants II",
