@@ -1448,8 +1448,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "419. Battleships in a Board",
+                "links": ["https://leetcode.com/problems/battleships-in-a-board/solutions/4641152/o-1-space/"]
             },
             {
                 "que": "2658. Maximum Number of Fish in a Grid",
