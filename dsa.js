@@ -18,8 +18,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "652. Find Duplicate Subtrees",
+                "links": ["https://leetcode.com/problems/find-duplicate-subtrees/solutions/4641345/recursion-map-set/"]
             },
             {
                 "que": "606. Construct String from Binary Tree",
