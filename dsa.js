@@ -22,8 +22,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "606. Construct String from Binary Tree",
+                "links": ["https://leetcode.com/problems/construct-string-from-binary-tree/solutions/4641199/recursion/"]
             },
             {
                 "que": "129. Sum Root to Leaf Numbers",
