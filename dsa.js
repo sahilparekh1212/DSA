@@ -22,7 +22,11 @@ let data = [
                 "links": []
             },
             {
-                "que": 988. Smallest String Starting From Leaf"",
+                "que": "606. Construct String from Binary Tree",
+                "links": ["https://leetcode.com/problems/construct-string-from-binary-tree/solutions/4641199/recursion/"]
+            },
+            {
+                "que": "988. Smallest String Starting From Leaf",
                 "links":" https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/4611295/dfs" ]
             },
             {
@@ -1448,8 +1452,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "419. Battleships in a Board",
+                "links": ["https://leetcode.com/problems/battleships-in-a-board/solutions/4641152/o-1-space/"]
             },
             {
                 "que": "2658. Maximum Number of Fish in a Grid",
