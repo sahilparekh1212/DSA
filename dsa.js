@@ -18,8 +18,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "652. Find Duplicate Subtrees",
+                "links": ["https://leetcode.com/problems/find-duplicate-subtrees/solutions/4641345/recursion-map-set/"]
             },
             {
                 "que": "606. Construct String from Binary Tree",
@@ -27,7 +27,7 @@ let data = [
             },
             {
                 "que": "988. Smallest String Starting From Leaf",
-                "links":" https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/4611295/dfs" ]
+                "links": ["https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/4611295/dfs"]
             },
             {
                 "que": "129. Sum Root to Leaf Numbers",
