@@ -14,8 +14,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2641. Cousins in Binary Tree II",
+                "links": ["https://leetcode.com/problems/cousins-in-binary-tree-ii/solutions/4646962/level-order-traversal/"]
             },
             {
                 "que": "652. Find Duplicate Subtrees",
