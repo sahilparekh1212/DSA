@@ -10,8 +10,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2583. Kth Largest Sum in a Binary Tree",
+                "links": ["https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/solutions/4647027/max-heap/"]
             },
             {
                 "que": "2641. Cousins in Binary Tree II",
