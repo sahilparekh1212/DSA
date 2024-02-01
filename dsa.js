@@ -6,6 +6,38 @@ let data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "701. Insert into a Binary Search Tree",
+                "links": ["https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4659704/o-h-o-1/"]
+            },
+            {
                 "que": "653. Two Sum IV - Input is a BST",
                 "links": ["https://leetcode.com/problems/two-sum-iv-input-is-a-bst/solutions/4657181/bst-iterator/"]
             },
