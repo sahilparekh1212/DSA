@@ -700,12 +700,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "540. Single Element in a Sorted Array",
+                "links": ["https://leetcode.com/problems/single-element-in-a-sorted-array/solutions/4663506/binary-search-with-index/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "167. Two Sum II - Input Array Is Sorted",
+                "links": ["https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/4663113/binary-search/"]
             },
             {
                 "que": "1011. Capacity To Ship Packages Within D Days",
