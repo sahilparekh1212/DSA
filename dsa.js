@@ -700,8 +700,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "540. Single Element in a Sorted Array",
+                "links": ["https://leetcode.com/problems/single-element-in-a-sorted-array/solutions/4663506/binary-search-with-index/"]
             },
             {
                 "que": "167. Two Sum II - Input Array Is Sorted",
