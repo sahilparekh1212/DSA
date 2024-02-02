@@ -704,8 +704,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "167. Two Sum II - Input Array Is Sorted",
+                "links": ["https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/4663113/binary-search/"]
             },
             {
                 "que": "1011. Capacity To Ship Packages Within D Days",
