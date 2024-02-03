@@ -30,8 +30,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1110. Delete Nodes And Return Forest",
+                "links": ["https://leetcode.com/problems/delete-nodes-and-return-forest/solutions/4673184/level-order-traversal/"]
             },
             {
                 "que": "701. Insert into a Binary Search Tree",
