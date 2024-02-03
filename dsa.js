@@ -26,8 +26,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "623. Add One Row to Tree",
+                "links": ["https://leetcode.com/problems/add-one-row-to-tree/solutions/4673404/level-order-traversal/"]
             },
             {
                 "que": "1110. Delete Nodes And Return Forest",
