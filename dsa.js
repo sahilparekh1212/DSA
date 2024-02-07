@@ -18,12 +18,12 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "113. Path Sum II",
+                "links": ["https://leetcode.com/problems/path-sum-ii/solutions/4678146/backtracking/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1080. Insufficient Nodes in Root to Leaf Paths",
+                "links": ["https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/solutions/4678136/postorder/"]
             },
             {
                 "que": "623. Add One Row to Tree",
@@ -2468,8 +2468,8 @@ let data = [
         ],
         "collections": [
             {
-                "que": "",
-                "links": []
+                "que": "284. Peeking Iterator",
+                "links": ["https://leetcode.com/problems/peeking-iterator/solutions/4694847/extra-integer-variable/"]
             },
             {
                 "que": "2391. Minimum Amount of Time to Collect Garbage",
