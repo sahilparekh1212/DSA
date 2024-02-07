@@ -2468,8 +2468,8 @@ let data = [
         ],
         "collections": [
             {
-                "que": "",
-                "links": []
+                "que": "284. Peeking Iterator",
+                "links": ["https://leetcode.com/problems/peeking-iterator/solutions/4694847/extra-integer-variable/"]
             },
             {
                 "que": "2391. Minimum Amount of Time to Collect Garbage",
