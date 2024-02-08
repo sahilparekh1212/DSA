@@ -990,8 +990,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1743. Restore the Array From Adjacent Pairs",
+                "links": ["https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/solutions/4699635/dfs/"]
             },
             {
                 "que": "1584. Min Cost to Connect All Points",
