@@ -14,8 +14,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "669. Trim a Binary Search Tree",
+                "links": ["https://leetcode.com/problems/trim-a-binary-search-tree/solutions/4703769/recursion/"]
             },
             {
                 "que": "113. Path Sum II",
