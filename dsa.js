@@ -1480,8 +1480,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "986. Interval List Intersections",
+                "links": ["https://leetcode.com/problems/interval-list-intersections/solutions/4712352/2-pointers-1-pass/"]
             },
             {
                 "que": "419. Battleships in a Board",
