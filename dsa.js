@@ -1476,8 +1476,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "57. Insert Interval",
+                "links": ["https://leetcode.com/problems/insert-interval/solutions/4713211/1-pass/"]
             },
             {
                 "que": "986. Interval List Intersections",
