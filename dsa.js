@@ -1476,8 +1476,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "57. Insert Interval",
+                "links": ["https://leetcode.com/problems/insert-interval/solutions/4713211/1-pass/"]
             },
             {
                 "que": "986. Interval List Intersections",
@@ -1994,8 +1994,8 @@ let data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2396. Strictly Palindromic Number",
+                "links": ["https://leetcode.com/problems/strictly-palindromic-number/solutions/4723439/for-loop-with-early-return/"]
             },
             {
                 "que": "1111. Maximum Nesting Depth of Two Valid Parentheses Strings",
