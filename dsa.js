@@ -2468,6 +2468,10 @@ let data = [
         ],
         "collections": [
             {
+                "que": "2034. Stock Price Fluctuation ",
+                "links": ["https://leetcode.com/problems/stock-price-fluctuation/solutions/4728978/map/"]
+            },
+            {
                 "que": "284. Peeking Iterator",
                 "links": ["https://leetcode.com/problems/peeking-iterator/solutions/4694847/extra-integer-variable/"]
             },
