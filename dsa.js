@@ -2632,4 +2632,6 @@ let updateHTML = () => {
 
 }
 
+let scrollToTop = () => window.scroll(0, 0);
+
 updateHTML();
