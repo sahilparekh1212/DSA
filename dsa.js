@@ -1,4 +1,4 @@
-let data = [
+const data = [
     {
         "tree": [
             {
@@ -2593,6 +2593,12 @@ let updateHTML = () => {
     console.log(genres);
     let html = "";
     let count = 1;
+    html += `
+            <tr class="row sticky" style="position:sticky; top:0;">
+                <th class="col-2" scope="col">#</td>
+                <th class="col-3" scope="col">Question</td>
+                <th class="col-7" scope="col">Visit</td>
+            </tr>`;
 
     for (const g of genres) {
 
@@ -2607,14 +2613,13 @@ let updateHTML = () => {
                 return 0;
             }
         });
-
         for (const q of currArr) {
             if (g && q.que && q.links[0]) {
                 html += `
-                    <tr class="row ${count % 2 == 0 ? "bg-transparent text-dark" : "bg-light text-dark"}">
-                        <td class="col-2">${count}. ${g}</td>
-                        <td class="col-3">${q.que}</td>
-                        <td class="col-7"><a href="${q.links[0]}" target="_blank">${q.links[0]}</a></td>
+                    <tr class="row ${count % 2 == 0 ? "" : ""}">
+                        <td class="col-2" scope="col">${count}. ${g}</td>
+                        <td class="col-3" scope="col">${q.que}</td>
+                        <td class="col-7" scope="col"><a href="${q.links[0]}" target="_blank">${q.links[0]}</a></td>
                     </tr>
                 `;
                 count++;
@@ -2623,7 +2628,7 @@ let updateHTML = () => {
 
     }
 
-    document.getElementById("main").innerHTML = `<table>` + html + `</table>`;
+    document.getElementById("main").innerHTML = `<table class="table table-dark table-striped table-bordered">` + html + `</table>`;
 
 }
 
