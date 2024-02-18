@@ -508,8 +508,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1642. Furthest Building You Can Reach",
+                "links": ["https://leetcode.com/problems/furthest-building-you-can-reach/solutions/4744067/2-solutions-heap-recursion/"]
             },
             {
                 "que": "1337. The K Weakest Rows in a Matrix",
