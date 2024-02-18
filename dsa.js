@@ -1473,7 +1473,7 @@ const data = [
             },
             {
                 "que": "1493. Longest Subarray of 1's After Deleting One Element",
-                "links": ["https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/4744205/visit-array-twice/"]
+                "links": ["https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/4744254/2-solutions/"]
             },
             {
                 "que": "57. Insert Interval",
