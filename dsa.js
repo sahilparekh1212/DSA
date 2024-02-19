@@ -1464,8 +1464,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2260. Minimum Consecutive Cards to Pick Up",
+                "links": ["https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/solutions/4754048/map-1-pass/"]
             },
             {
                 "que": "15. 3Sum",
@@ -2394,8 +2394,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2799. Count Complete Subarrays in an Array",
+                "links": ["https://leetcode.com/problems/count-complete-subarrays-in-an-array/solutions/4754091/sliding-window/"]
             },
             {
                 "que": "1358. Number of Substrings Containing All Three Characters",
