@@ -2398,8 +2398,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1358. Number of Substrings Containing All Three Characters",
+                "links": ["https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/solutions/4749728/sliding-window/"]
             },
             {
                 "que": "2024. Maximize the Confusion of an Exam",
