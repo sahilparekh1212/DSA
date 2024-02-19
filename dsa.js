@@ -2382,6 +2382,30 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "2024. Maximize the Confusion of an Exam",
+                "links": ["https://leetcode.com/problems/maximize-the-confusion-of-an-exam/solutions/4748957/sliding-window/"]
+            },
+            {
                 "que": "567. Permutation in String",
                 "links": ["https://leetcode.com/problems/permutation-in-string/solutions/4567236/o-1-space-sliding-window/"]
             },
