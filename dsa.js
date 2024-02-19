@@ -1858,6 +1858,10 @@ const data = [
                 "links": []
             },
             {
+                "que": "1721. Swapping Nodes in a Linked List",
+                "links": ["https://leetcode.com/problems/swapping-nodes-in-a-linked-list/solutions/4753107/o-1-space-2-pass/"]
+            },
+            {
                 "que": "2130. Maximum Twin Sum of a Linked List",
                 "links": ["https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/solutions/4483674/stack/"]
             },
@@ -1941,10 +1945,6 @@ const data = [
             }
         ],
         "string": [
-            {
-                "que": "",
-                "links": []
-            },
             {
                 "que": "",
                 "links": []
