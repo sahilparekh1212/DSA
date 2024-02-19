@@ -1990,8 +1990,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2063. Vowels of All Substrings",
+                "links": ["https://leetcode.com/problems/vowels-of-all-substrings/solutions/4752626/1-pass-combination/"]
             },
             {
                 "que": "2396. Strictly Palindromic Number",
