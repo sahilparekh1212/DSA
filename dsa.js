@@ -1468,8 +1468,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "15. 3Sum",
+                "links": ["https://leetcode.com/problems/3sum/solutions/4753702/o-n-2-two-pointer/"]
             },
             {
                 "que": "1493. Longest Subarray of 1's After Deleting One Element",
