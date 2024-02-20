@@ -2390,8 +2390,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1248. Count Number of Nice Subarrays",
+                "links": ["https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/4754648/sliding-window/"]
             },
             {
                 "que": "2799. Count Complete Subarrays in an Array",
