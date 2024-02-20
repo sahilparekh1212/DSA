@@ -2386,8 +2386,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1052. Grumpy Bookstore Owner",
+                "links": ["https://leetcode.com/problems/grumpy-bookstore-owner/solutions/4759810/o-1-space-sliding-window/"]
             },
             {
                 "que": "1248. Count Number of Nice Subarrays",
