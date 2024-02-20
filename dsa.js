@@ -1854,8 +1854,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "25. Reverse Nodes in k-Group",
+                "links": ["https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/4754228/stack-queue/"]
             },
             {
                 "que": "1721. Swapping Nodes in a Linked List",
@@ -2390,8 +2390,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1248. Count Number of Nice Subarrays",
+                "links": ["https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/4754648/sliding-window/"]
             },
             {
                 "que": "2799. Count Complete Subarrays in an Array",
