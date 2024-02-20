@@ -1854,8 +1854,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "25. Reverse Nodes in k-Group",
+                "links": ["https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/4754228/stack-queue/"]
             },
             {
                 "que": "1721. Swapping Nodes in a Linked List",
