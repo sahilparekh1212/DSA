@@ -2394,8 +2394,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2302. Count Subarrays With Score Less Than K",
+                "links": ["https://leetcode.com/problems/count-subarrays-with-score-less-than-k/solutions/4764815/o-1-space-sliding-window/"]
             },
             {
                 "que": "424. Longest Repeating Character Replacement",
