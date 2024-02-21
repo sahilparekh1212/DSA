@@ -2398,8 +2398,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "424. Longest Repeating Character Replacement",
+                "links": ["https://leetcode.com/problems/longest-repeating-character-replacement/solutions/4759927/sliding-window/"]
             },
             {
                 "que": "930. Binary Subarrays With Sum",
