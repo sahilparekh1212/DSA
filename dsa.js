@@ -1476,8 +1476,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "42. Trapping Rain Water",
+                "links": ["https://leetcode.com/problems/trapping-rain-water/solutions/4765214/loop-3-times-array/"]
             },
             {
                 "que": "238. Product of Array Except Self",
