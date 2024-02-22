@@ -1431,15 +1431,15 @@ const data = [
             },
             {
                 "que": "881. Boats to Save People",
-                "links": ["Submitted but creation of solution link is pending"]
+                "links": ["https://leetcode.com/problems/boats-to-save-people/solutions/4765842/o-1-space/"]
             },
             {
                 "que": "1481. Least Number of Unique Integers after K Removals",
-                "links": ["Submitted but creation of solution link is pending"]
+                "links": ["https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/solutions/4765851/map-priorityqueue/"]
             },
             {
                 "que": "720. Longest Word in Dictionary",
-                "links": ["Submitted but creation of solution link is pending"]
+                "links": ["https://leetcode.com/problems/longest-word-in-dictionary/solutions/4765857/set/"]
             },
             {
                 "que": "164. Maximum Gap",
@@ -1473,7 +1473,7 @@ const data = [
             },
             {
                 "que": "2284. Sender With Largest Word Count",
-                "links": ["Pending Upload: https://leetcode.com/problems/sender-with-largest-word-count/solutions/4765656/map/"]
+                "links": ["https://leetcode.com/problems/sender-with-largest-word-count/solutions/4765656/map/"]
             },
             {
                 "que": "42. Trapping Rain Water",
@@ -2006,8 +2006,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "647. Palindromic Substrings",
+                "links": ["https://leetcode.com/problems/palindromic-substrings/solutions/4765834/o-1-space/"]
             },
             {
                 "que": "2063. Vowels of All Substrings",
