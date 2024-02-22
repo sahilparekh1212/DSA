@@ -1472,8 +1472,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2284. Sender With Largest Word Count",
+                "links": ["Pending Upload: https://leetcode.com/problems/sender-with-largest-word-count/solutions/4765656/map/"]
             },
             {
                 "que": "42. Trapping Rain Water",
