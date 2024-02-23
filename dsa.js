@@ -1386,8 +1386,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1630. Arithmetic Subarrays",
+                "links": ["https://leetcode.com/problems/arithmetic-subarrays/solutions/4770002/sort/"]
             },
             {
                 "que": "2279. Maximum Bags With Full Capacity of Rocks",
