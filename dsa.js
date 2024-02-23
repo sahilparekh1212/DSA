@@ -942,8 +942,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2498. Frog Jump II",
+                "links": ["https://leetcode.com/problems/frog-jump-ii/solutions/4770233/o-1-space/"]
             },
             {
                 "que": "1221. Split a String in Balanced Strings",
@@ -1386,8 +1386,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1630. Arithmetic Subarrays",
+                "links": ["https://leetcode.com/problems/arithmetic-subarrays/solutions/4770002/sort/"]
             },
             {
                 "que": "2279. Maximum Bags With Full Capacity of Rocks",
