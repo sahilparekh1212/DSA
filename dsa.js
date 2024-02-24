@@ -986,8 +986,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2092. Find All People With Secret",
+                "links": ["https://leetcode.com/problems/find-all-people-with-secret/solutions/4778181/bfs-min-heap/"]
             },
             {
                 "que": "1743. Restore the Array From Adjacent Pairs",
