@@ -398,8 +398,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "316. Remove Duplicate Letters",
+                "links": ["https://leetcode.com/problems/remove-duplicate-letters/solutions/4782441/monotonic-stack-increasing/"]
             },
             {
                 "que": "1249. Minimum Remove to Make Valid Parentheses",
