@@ -390,12 +390,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1673. Find the Most Competitive Subsequence",
+                "links": ["https://leetcode.com/problems/find-the-most-competitive-subsequence/solutions/4782532/monotonic-stack-increasing/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1081. Smallest Subsequence of Distinct Characters",
+                "links": ["https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/solutions/4782495/monotonic-stack-increasing/"]
             },
             {
                 "que": "316. Remove Duplicate Letters",
