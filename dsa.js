@@ -398,8 +398,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "316. Remove Duplicate Letters",
+                "links": ["https://leetcode.com/problems/remove-duplicate-letters/solutions/4782441/monotonic-stack-increasing/"]
             },
             {
                 "que": "1249. Minimum Remove to Make Valid Parentheses",
@@ -986,8 +986,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2092. Find All People With Secret",
+                "links": ["https://leetcode.com/problems/find-all-people-with-secret/solutions/4778181/bfs-min-heap/"]
             },
             {
                 "que": "1743. Restore the Array From Adjacent Pairs",
@@ -2531,6 +2531,34 @@ const data = [
             }
         ],
         "collections": [
+            {
+                "que": "",
+                "linkes": [""]
+            },
+            {
+                "que": "",
+                "linkes": [""]
+            },
+            {
+                "que": "",
+                "linkes": [""]
+            },
+            {
+                "que": "",
+                "linkes": [""]
+            },
+            {
+                "que": "",
+                "linkes": [""]
+            },
+            {
+                "que": "",
+                "linkes": [""]
+            },
+            {
+                "que": "919. Complete Binary Tree Inserter",
+                "linkes": ["https://leetcode.com/problems/complete-binary-tree-inserter/solutions/4780791/queue/"]
+            },
             {
                 "que": "2034. Stock Price Fluctuation ",
                 "links": ["https://leetcode.com/problems/stock-price-fluctuation/solutions/4728978/map/"]
