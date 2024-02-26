@@ -386,8 +386,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "402. Remove K Digits",
+                "links": ["https://leetcode.com/problems/remove-k-digits/solutions/4782607/monotonic-stack-increasing/"]
             },
             {
                 "que": "1673. Find the Most Competitive Subsequence",
@@ -2552,8 +2552,8 @@ const data = [
                 "linkes": [""]
             },
             {
-                "que": "",
-                "linkes": [""]
+                "que": "950. Reveal Cards In Increasing Order",
+                "linkes": ["https://leetcode.com/problems/reveal-cards-in-increasing-order/solutions/4783259/sort/"]
             },
             {
                 "que": "919. Complete Binary Tree Inserter",
