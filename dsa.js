@@ -1274,8 +1274,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "300. Longest Increasing Subsequence",
+                "links": ["https://leetcode.com/problems/longest-increasing-subsequence/solutions/4818735/dp/"]
             },
             {
                 "que": "70. Climbing Stairs",
@@ -1382,8 +1382,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2740. Find the Value of the Partition",
+                "links": ["https://leetcode.com/problems/find-the-value-of-the-partition/solutions/4792000/sort/"]
             },
             {
                 "que": "1630. Arithmetic Subarrays",
@@ -2047,7 +2047,7 @@ const data = [
             },
             {
                 "que": "2120. Execution of All Suffix Instructions Staying in a Grid",
-                "links": ["https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/solutions/4245815/o-n-o-n/"]
+                "links": ["https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/solutions/4245815/loopss/"]
             },
             {
                 "que": "2390. Removing Stars From a String",
