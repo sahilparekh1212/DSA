@@ -1262,16 +1262,16 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "931. Minimum Falling Path Sum",
+                "links": ["https://leetcode.com/problems/minimum-falling-path-sum/solutions/4829635/dp-with-space-optimization/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "64. Minimum Path Sum",
+                "links": ["https://leetcode.com/problems/minimum-path-sum/solutions/4829633/dp-with-space-optimization/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "63. Unique Paths II",
+                "links": ["https://leetcode.com/problems/unique-paths-ii/solutions/4829632/dp-with-space-optimization/"]
             },
             {
                 "que": "300. Longest Increasing Subsequence",
@@ -1330,42 +1330,6 @@ const data = [
                 "links": [
                     "https://leetcode.com/problems/fair-distribution-of-cookies/solutions/3964585/1d-dp-topdown/"
                 ]
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "sorting": [
