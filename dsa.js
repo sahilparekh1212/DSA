@@ -1258,8 +1258,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "120. Triangle",
+                "links": ["https://leetcode.com/problems/triangle/solutions/4829676/dp-with-space-optimization/"]
             },
             {
                 "que": "931. Minimum Falling Path Sum",
