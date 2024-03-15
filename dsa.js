@@ -1250,8 +1250,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1143. Longest Common Subsequence",
+                "links": ["https://leetcode.com/problems/longest-common-subsequence/solutions/4876916/dp-recursive-solutions/"]
             },
             {
                 "que": "518. Coin Change II",
