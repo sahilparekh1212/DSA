@@ -1246,8 +1246,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "516. Longest Palindromic Subsequence",
+                "links": ["https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1203966081/"]
             },
             {
                 "que": "1143. Longest Common Subsequence",
