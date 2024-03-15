@@ -1242,12 +1242,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "583. Delete Operation for Two Strings",
+                "links": ["https://leetcode.com/problems/delete-operation-for-two-strings/solutions/4876953/dp/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "516. Longest Palindromic Subsequence",
+                "links": ["https://leetcode.com/problems/longest-palindromic-subsequence/solutions/4876961/dp/"]
             },
             {
                 "que": "1143. Longest Common Subsequence",
