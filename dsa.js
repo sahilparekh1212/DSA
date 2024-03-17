@@ -1242,6 +1242,38 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "115. Distinct Subsequences",
+                "links": ["https://leetcode.com/problems/distinct-subsequences/solutions/4889711/dp-4-solutions/"]
+            },
+            {
+                "que": "1092. Shortest Common Supersequence",
+                "links": ["https://leetcode.com/problems/shortest-common-supersequence/solutions/4889579/dp/"]
+            },
+            {
+                "que": "1312. Minimum Insertion Steps to Make a String Palindrome",
+                "links": ["https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/solutions/4885762/dp/"]
+            },
+            {
                 "que": "583. Delete Operation for Two Strings",
                 "links": ["https://leetcode.com/problems/delete-operation-for-two-strings/solutions/4876953/dp/"]
             },
