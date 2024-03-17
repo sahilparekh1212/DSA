@@ -1258,8 +1258,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "72. Edit Distance",
+                "links": ["https://leetcode.com/problems/edit-distance/solutions/4889873/3-dp-solutions/"]
             },
             {
                 "que": "115. Distinct Subsequences",
