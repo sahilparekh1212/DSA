@@ -1254,12 +1254,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "44. Wildcard Matching",
+                "links": ["https://leetcode.com/problems/wildcard-matching/solutions/4898862/dp-3-solutions/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "72. Edit Distance",
+                "links": ["https://leetcode.com/problems/edit-distance/solutions/4889873/3-dp-solutions/"]
             },
             {
                 "que": "115. Distinct Subsequences",
