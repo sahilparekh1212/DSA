@@ -1242,8 +1242,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "309. Best Time to Buy and Sell Stock with Cooldown",
+                "links": ["https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solutions/4903744/dp/"]
             },
             {
                 "que": "188. Best Time to Buy and Sell Stock IV",
