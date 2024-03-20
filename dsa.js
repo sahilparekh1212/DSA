@@ -1246,12 +1246,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "188. Best Time to Buy and Sell Stock IV",
+                "links": ["https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solutions/4903716/dp/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "123. Best Time to Buy and Sell Stock III",
+                "links": ["https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4903718/dp/"]
             },
             {
                 "que": "44. Wildcard Matching",
