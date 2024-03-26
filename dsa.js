@@ -1278,8 +1278,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "312. Burst Balloons",
+                "links": ["https://leetcode.com/problems/burst-balloons/solutions/4925677/dp/"]
             },
             {
                 "que": "714. Best Time to Buy and Sell Stock with Transaction Fee",
