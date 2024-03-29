@@ -1270,8 +1270,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1043. Partition Array for Maximum Sum",
+                "links": ["https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4944213/dp/"]
             },
             {
                 "que": "132. Palindrome Partitioning II",
