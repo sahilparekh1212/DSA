@@ -1274,8 +1274,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "132. Palindrome Partitioning II",
+                "links": ["https://leetcode.com/problems/palindrome-partitioning-ii/solutions/4944096/dp/"]
             },
             {
                 "que": "312. Burst Balloons",
