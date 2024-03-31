@@ -696,8 +696,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2560. House Robber IV",
+                "links": ["https://leetcode.com/problems/house-robber-iv/solutions/4949251/2-soln-binary-search-on-array-s-min-to-max-dp/"]
             },
             {
                 "que": "540. Single Element in a Sorted Array",
