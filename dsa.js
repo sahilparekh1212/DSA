@@ -836,8 +836,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "37. Sudoku Solver",
+                "links": ["https://leetcode.com/problems/sudoku-solver/solutions/4995561/backtracking/"]
             },
             {
                 "que": "79. Word Search",
