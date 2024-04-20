@@ -836,8 +836,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "37. Sudoku Solver",
+                "links": ["https://leetcode.com/problems/sudoku-solver/solutions/4995561/backtracking/"]
             },
             {
                 "que": "79. Word Search",
@@ -2454,8 +2454,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1423. Maximum Points You Can Obtain from Cards",
+                "links": ["https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/solutions/5051880/sliding-window/"]
             },
             {
                 "que": "713. Subarray Product Less Than K",
