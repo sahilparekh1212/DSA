@@ -2454,8 +2454,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1423. Maximum Points You Can Obtain from Cards",
+                "links": ["https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/solutions/5051880/sliding-window/"]
             },
             {
                 "que": "713. Subarray Product Less Than K",
