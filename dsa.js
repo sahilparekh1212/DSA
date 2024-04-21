@@ -1512,6 +1512,34 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
                 "que": "2091. Removing Minimum and Maximum From Array",
                 "links": ["https://leetcode.com/problems/removing-minimum-and-maximum-from-array/solutions/5056704/java-1-pass-o-1-space/"]
             },
@@ -2052,6 +2080,10 @@ const data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "1647. Minimum Deletions to Make Character Frequencies Unique",
+                "links": ["https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/solutions/5056840/java-1-pass-o-1-space/"]
             },
             {
                 "que": "647. Palindromic Substrings",
