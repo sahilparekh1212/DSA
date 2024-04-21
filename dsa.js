@@ -1512,8 +1512,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2091. Removing Minimum and Maximum From Array",
+                "links": ["https://leetcode.com/problems/removing-minimum-and-maximum-from-array/solutions/5056704/java-1-pass-o-1-space/"]
             },
             {
                 "que": "2789. Largest Element in an Array after Merge Operations",
