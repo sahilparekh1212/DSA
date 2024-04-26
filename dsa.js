@@ -1532,12 +1532,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2170. Minimum Operations to Make the Array Alternating",
+                "links": ["https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/solutions/5073471/java-map-heap/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2216. Minimum Deletions to Make Array Beautiful",
+                "links": ["https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/solutions/5073361/java-1-pass-o-1-space/"]
             },
             {
                 "que": "2091. Removing Minimum and Maximum From Array",
