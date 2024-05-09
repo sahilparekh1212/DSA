@@ -692,8 +692,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "374. Guess Number Higher or Lower",
+                "links": ["https://leetcode.com/problems/guess-number-higher-or-lower/solutions/5132694/binary-search/"]
             },
             {
                 "que": "2560. House Robber IV",
