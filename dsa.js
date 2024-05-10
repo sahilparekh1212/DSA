@@ -1528,8 +1528,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "3065. Minimum Operations to Exceed Threshold Value I",
+                "links": ["https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/solutions/5137553/o-1-space-1-pass/"]
             },
             {
                 "que": "2170. Minimum Operations to Make the Array Alternating",
@@ -2078,8 +2078,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "383. Ransom Note",
+                "links": ["https://leetcode.com/problems/ransom-note/solutions/5137589/o-1-space-1-pass/"]
             },
             {
                 "que": "1647. Minimum Deletions to Make Character Frequencies Unique",
