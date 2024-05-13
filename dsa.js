@@ -1528,6 +1528,34 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "2956. Find Common Elements Between Two Arrays",
+                "links": ["https://leetcode.com/problems/find-common-elements-between-two-arrays/"]
+            },
+            {
+                "que": "832. Flipping an Image",
+                "links": ["https://leetcode.com/problems/flipping-an-image/solutions/5150037/for-loops/"]
+            },
+            {
+                "que": "1637. Widest Vertical Area Between Two Points Containing No Points",
+                "links": ["https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/solutions/5148166/sort/"]
+            },
+            {
+                "que": "2942. Find Words Containing Character",
+                "links": ["https://leetcode.com/problems/find-words-containing-character/solutions/5148111/for-loop/"]
+            },
+            {
                 "que": "3065. Minimum Operations to Exceed Threshold Value I",
                 "links": ["https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/solutions/5137553/o-1-space-1-pass/"]
             },
@@ -2078,6 +2106,14 @@ const data = [
                 "links": []
             },
             {
+                "que": "2710. Remove Trailing Zeros From a String",
+                "links": ["https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/5150073/o-1-space/"]
+            },
+            {
+                "que": "2108. Find First Palindromic String in the Array",
+                "linkes": ["https://leetcode.com/problems/find-first-palindromic-string-in-the-array/solutions/5150064/o-1-space-for-while-loop/"]
+            },
+            {
                 "que": "383. Ransom Note",
                 "links": ["https://leetcode.com/problems/ransom-note/solutions/5137589/o-1-space-1-pass/"]
             },
@@ -2460,20 +2496,16 @@ const data = [
         ],
         "bitManipulation": [
             {
-                "que": "",
-                "links": []
+                "que": "2980. Check if Bitwise OR Has Trailing Zeros",
+                "links": ["https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/solutions/5150070/o-1-space-bit-manipulation/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2917. Find the K-or of an Array",
+                "links": ["https://leetcode.com/problems/find-the-k-or-of-an-array/solutions/5150052/bit-manipulation-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
+                "que": "2859. Sum of Values at Indices With K Set Bits",
+                "links": ["https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/solutions/5150048/bit-manipulation-o-1-space/"]
             }
         ],
         "slidingWindow": [
@@ -2624,12 +2656,8 @@ const data = [
                 "linkes": [""]
             },
             {
-                "que": "",
-                "linkes": [""]
-            },
-            {
-                "que": "",
-                "linkes": [""]
+                "que": "2974. Minimum Number Game",
+                "linkes": ["https://leetcode.com/problems/minimum-number-game/solutions/5150057/min-heap-priority-queue/"]
             },
             {
                 "que": "950. Reveal Cards In Increasing Order",
