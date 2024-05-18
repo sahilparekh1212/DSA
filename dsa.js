@@ -2102,8 +2102,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2255. Count Prefixes of a Given String",
+                "links": ["https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/5175548/1-pass-o-1-space/"]
             },
             {
                 "que": "2710. Remove Trailing Zeros From a String",
