@@ -11,7 +11,7 @@ const data = [
             },
             {
                 "que": "437. Path Sum III",
-                "links": ["https://leetcode.com/problems/path-sum-iii/solutions/4742201/dfs-backtracking/   "]
+                "links": ["https://leetcode.com/problems/path-sum-iii/solutions/4742201/dfs-backtracking/"]
             },
             {
                 "que": "669. Trim a Binary Search Tree",
@@ -1537,7 +1537,7 @@ const data = [
             },
             {
                 "que": "463. Island Perimeter",
-                "links": ["https://leetcode.com/problems/island-perimeter/solutions/5175511/1-pass-o-1-space/   "]
+                "links": ["https://leetcode.com/problems/island-perimeter/solutions/5175511/1-pass-o-1-space/"]
             },
             {
                 "que": "2956. Find Common Elements Between Two Arrays",
