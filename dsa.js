@@ -2098,8 +2098,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2496. Maximum Value of a String in an Array",
+                "links": ["https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/solutions/5175655/1-pass-o-1-space/"]
             },
             {
                 "que": "2255. Count Prefixes of a Given String",
