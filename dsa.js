@@ -1532,8 +1532,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "867. Transpose Matrix",
+                "links": ["https://leetcode.com/problems/transpose-matrix/solutions/5175744/1-pass/"]
             },
             {
                 "que": "463. Island Perimeter",
