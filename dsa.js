@@ -2652,8 +2652,8 @@ const data = [
                 "linkes": [""]
             },
             {
-                "que": "",
-                "linkes": [""]
+                "que": "1460. Make Two Arrays Equal by Reversing Subarrays",
+                "linkes": ["https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/5175705/hashmap/"]
             },
             {
                 "que": "2974. Minimum Number Game",
