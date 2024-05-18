@@ -2094,8 +2094,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "821. Shortest Distance to a Character",
+                "links": ["https://leetcode.com/problems/shortest-distance-to-a-character/solutions/5176168/stack-array/"]
             },
             {
                 "que": "2496. Maximum Value of a String in an Array",
