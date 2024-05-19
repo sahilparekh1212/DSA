@@ -1528,8 +1528,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "349. Intersection of Two Arrays",
+                "links": ["https://leetcode.com/problems/intersection-of-two-arrays/solutions/5180177/hashset/"]
             },
             {
                 "que": "867. Transpose Matrix",
