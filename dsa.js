@@ -2086,8 +2086,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "389. Find the Difference",
+                "links": ["https://leetcode.com/problems/find-the-difference/solutions/5180369/1-pass-o-1-space/"]
             },
             {
                 "que": "290. Word Pattern",
