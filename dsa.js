@@ -2090,8 +2090,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "290. Word Pattern",
+                "links": ["https://leetcode.com/problems/word-pattern/solutions/5180136/o-1-space-1-pass/"]
             },
             {
                 "que": "821. Shortest Distance to a Character",
