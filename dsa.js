@@ -688,8 +688,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "441. Arranging Coins",
+                "links": ["https://leetcode.com/problems/arranging-coins/solutions/5199301/binary-search/"]
             },
             {
                 "que": "374. Guess Number Higher or Lower",
