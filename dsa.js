@@ -1524,8 +1524,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2923. Find Champion I",
+                "links": ["https://leetcode.com/problems/find-champion-i/solutions/5199264/1-pass-1d-boolean-array/"]
             },
             {
                 "que": "349. Intersection of Two Arrays",
@@ -2078,8 +2078,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "434. Number of Segments in a String",
+                "links": ["https://leetcode.com/problems/number-of-segments-in-a-string/solutions/5180512/1-pass-o-1-space/"]
             },
             {
                 "que": "409. Longest Palindrome",
