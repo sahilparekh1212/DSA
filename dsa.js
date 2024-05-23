@@ -11,7 +11,7 @@ const data = [
             },
             {
                 "que": "437. Path Sum III",
-                "links": ["https://leetcode.com/problems/path-sum-iii/solutions/4742201/dfs-backtracking/   "]
+                "links": ["https://leetcode.com/problems/path-sum-iii/solutions/4742201/dfs-backtracking/"]
             },
             {
                 "que": "669. Trim a Binary Search Tree",
@@ -1524,20 +1524,20 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2923. Find Champion I",
+                "links": ["https://leetcode.com/problems/find-champion-i/solutions/5199264/1-pass-1d-boolean-array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "349. Intersection of Two Arrays",
+                "links": ["https://leetcode.com/problems/intersection-of-two-arrays/solutions/5180177/hashset/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "867. Transpose Matrix",
+                "links": ["https://leetcode.com/problems/transpose-matrix/solutions/5175744/1-pass/"]
             },
             {
                 "que": "463. Island Perimeter",
-                "links": ["https://leetcode.com/problems/island-perimeter/solutions/5175511/1-pass-o-1-space/   "]
+                "links": ["https://leetcode.com/problems/island-perimeter/solutions/5175511/1-pass-o-1-space/"]
             },
             {
                 "que": "2956. Find Common Elements Between Two Arrays",
@@ -2078,28 +2078,28 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "434. Number of Segments in a String",
+                "links": ["https://leetcode.com/problems/number-of-segments-in-a-string/solutions/5180512/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "409. Longest Palindrome",
+                "links": ["https://leetcode.com/problems/longest-palindrome/solutions/5180453/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "389. Find the Difference",
+                "links": ["https://leetcode.com/problems/find-the-difference/solutions/5180369/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "290. Word Pattern",
+                "links": ["https://leetcode.com/problems/word-pattern/solutions/5180136/o-1-space-1-pass/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "821. Shortest Distance to a Character",
+                "links": ["https://leetcode.com/problems/shortest-distance-to-a-character/solutions/5176168/stack-array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2496. Maximum Value of a String in an Array",
+                "links": ["https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/solutions/5175655/1-pass-o-1-space/"]
             },
             {
                 "que": "2255. Count Prefixes of a Given String",
@@ -2652,8 +2652,8 @@ const data = [
                 "linkes": [""]
             },
             {
-                "que": "",
-                "linkes": [""]
+                "que": "1460. Make Two Arrays Equal by Reversing Subarrays",
+                "linkes": ["https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/5175705/hashmap/"]
             },
             {
                 "que": "2974. Minimum Number Game",
