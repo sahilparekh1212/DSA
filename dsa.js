@@ -2086,8 +2086,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "500. Keyboard Row",
+                "links": ["https://leetcode.com/problems/keyboard-row/solutions/5207860/1-pass/"]
             },
             {
                 "que": "3121. Count the Number of Special Characters II",
@@ -2372,8 +2372,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "504. Base 7",
+                "links": ["https://leetcode.com/problems/base-7/solutions/5207679/iterative/"]
             },
             {
                 "que": "2520. Count the Digits That Divide a Number",
