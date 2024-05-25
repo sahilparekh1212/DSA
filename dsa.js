@@ -2082,8 +2082,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2129. Capitalize the Title",
+                "links": ["https://leetcode.com/problems/capitalize-the-title/solutions/5207955/1-pass/"]
             },
             {
                 "que": "500. Keyboard Row",
