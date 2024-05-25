@@ -2078,6 +2078,30 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "3120. Count the Number of Special Characters I",
+                "links": ["https://leetcode.com/problems/count-the-number-of-special-characters-i/solutions/5207160/1-pass-o-1-space/"]
+            },
+            {
+                "que": "520. Detect Capital",
+                "links": ["https://leetcode.com/problems/detect-capital/editorial/"]
+            },
+            {
                 "que": "434. Number of Segments in a String",
                 "links": ["https://leetcode.com/problems/number-of-segments-in-a-string/solutions/5180512/1-pass-o-1-space/"]
             },
