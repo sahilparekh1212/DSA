@@ -2090,8 +2090,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "3121. Count the Number of Special Characters II",
+                "links": ["https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/"]
             },
             {
                 "que": "3120. Count the Number of Special Characters I",
