@@ -1512,16 +1512,16 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "896. Monotonic Array",
+                "links": ["https://leetcode.com/problems/monotonic-array/solutions/5206792/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2210. Count Hills and Valleys in an Array",
+                "links": ["https://leetcode.com/problems/count-hills-and-valleys-in-an-array/solutions/5206776/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1403. Minimum Subsequence in Non-Increasing Order",
+                "links": ["https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/solutions/5206670/sort/"]
             },
             {
                 "que": "2923. Find Champion I",
