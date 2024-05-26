@@ -2086,12 +2086,32 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "917. Reverse Only Letters",
+                "links": ["https://leetcode.com/problems/reverse-only-letters/solutions/5208469/two-pointers/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "541. Reverse String II",
+                "links": ["https://leetcode.com/problems/reverse-string-ii/solutions/5208453/1-pass/"]
+            },
+            {
+                "que": "551. Student Attendance Record I",
+                "links": ["https://leetcode.com/problems/student-attendance-record-i/solutions/5208048/1-pass-o-1-space/"]
+            },
+            {
+                "que": "709. To Lower Case",
+                "links": ["https://leetcode.com/problems/to-lower-case/solutions/5207991/1-pass/"]
+            },
+            {
+                "que": "2129. Capitalize the Title",
+                "links": ["https://leetcode.com/problems/capitalize-the-title/solutions/5207955/1-pass/"]
+            },
+            {
+                "que": "500. Keyboard Row",
+                "links": ["https://leetcode.com/problems/keyboard-row/solutions/5207860/1-pass/"]
+            },
+            {
+                "que": "3121. Count the Number of Special Characters II",
+                "links": ["https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/"]
             },
             {
                 "que": "3120. Count the Number of Special Characters I",
@@ -2372,8 +2392,20 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "860. Lemonade Change",
+                "links": ["https://leetcode.com/problems/lemonade-change/solutions/5213150/1-pass-o-1-space/"]
+            },
+            {
+                "que": "495. Teemo Attacking",
+                "links": ["https://leetcode.com/problems/teemo-attacking/solutions/5208414/1-pass-o-1-space/"]
+            },
+            {
+                "que": "492. Construct the Rectangle",
+                "links": ["https://leetcode.com/problems/construct-the-rectangle/solutions/5208400/2-pointer-o-1-space/"]
+            },
+            {
+                "que": "504. Base 7",
+                "links": ["https://leetcode.com/problems/base-7/solutions/5207679/iterative/"]
             },
             {
                 "que": "2520. Count the Digits That Divide a Number",
