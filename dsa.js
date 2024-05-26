@@ -2086,8 +2086,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "917. Reverse Only Letters",
+                "links": ["https://leetcode.com/problems/reverse-only-letters/solutions/5208469/two-pointers/"]
             },
             {
                 "que": "541. Reverse String II",
@@ -2382,6 +2382,18 @@ const data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "860. Lemonade Change",
+                "links": ["https://leetcode.com/problems/lemonade-change/solutions/5213150/1-pass-o-1-space/"]
             },
             {
                 "que": "495. Teemo Attacking",
