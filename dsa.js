@@ -2074,16 +2074,16 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1657. Determine if Two Strings Are Close",
+                "links": ["https://leetcode.com/problems/determine-if-two-strings-are-close/solutions/5213279/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "859. Buddy Strings",
+                "links": ["https://leetcode.com/problems/buddy-strings/solutions/5213191/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "796. Rotate String",
+                "links": ["https://leetcode.com/problems/rotate-string/solutions/5213155/1-line/"]
             },
             {
                 "que": "917. Reverse Only Letters",
