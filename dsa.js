@@ -2138,8 +2138,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "3019. Number of Changing Keys",
+                "links": ["https://leetcode.com/problems/number-of-changing-keys/solutions/5281273/1-pass-constant-space/"]
             },
             {
                 "que": "884. Uncommon Words from Two Sentences",
