@@ -2126,8 +2126,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1704. Determine if String Halves Are Alike",
+                "links": ["https://leetcode.com/problems/determine-if-string-halves-are-alike/solutions/5281421/1-pass-constant-space/"]
             },
             {
                 "que": "1309. Decrypt String from Alphabet to Integer Mapping",
