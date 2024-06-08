@@ -2118,12 +2118,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "944. Delete Columns to Make Sorted",
+                "links": ["https://leetcode.com/problems/delete-columns-to-make-sorted/solutions/5281454/1-pass-constant-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2278. Percentage of Letter in String",
+                "links": ["https://leetcode.com/problems/percentage-of-letter-in-string/solutions/5281429/1-pass-constant-space/"]
             },
             {
                 "que": "1704. Determine if String Halves Are Alike",
