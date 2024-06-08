@@ -2773,11 +2773,31 @@ const data = [
         "collections": [
             {
                 "que": "",
-                "linkes": [""]
+                "linkes": []
             },
             {
                 "que": "",
-                "linkes": [""]
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "697. Degree of an Array",
+                "linkes": ["https://leetcode.com/problems/degree-of-an-array/solutions/5281054/1-pass-hashmap/"]
             },
             {
                 "que": "1460. Make Two Arrays Equal by Reversing Subarrays",
