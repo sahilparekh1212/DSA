@@ -2642,6 +2642,34 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "1759. Count Number of Homogenous Substrings",
+                "links": ["https://leetcode.com/problems/count-number-of-homogenous-substrings/solutions/5281348/sliding-window-constant-space/"]
+            },
+            {
                 "que": "1446. Consecutive Characters",
                 "links": ["https://leetcode.com/problems/consecutive-characters/solutions/5281293/sliding-window-constant-space/"]
             },
