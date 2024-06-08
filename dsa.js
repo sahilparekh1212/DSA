@@ -2131,11 +2131,11 @@ const data = [
             },
             {
                 "que": "",
-                "links": []
+                "links": [""]
             },
             {
-                "que": "",
-                "links": []
+                "que": "3168. Minimum Number of Chairs in a Waiting Room",
+                "links": ["https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/5281285/1-pass-constant-space/"]
             },
             {
                 "que": "3019. Number of Changing Keys",
@@ -2642,8 +2642,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1446. Consecutive Characters",
+                "links": ["https://leetcode.com/problems/consecutive-characters/solutions/5281293/sliding-window-constant-space/"]
             },
             {
                 "que": "1423. Maximum Points You Can Obtain from Cards",
