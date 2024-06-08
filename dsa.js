@@ -2130,8 +2130,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": [""]
+                "que": "1309. Decrypt String from Alphabet to Integer Mapping",
+                "links": ["https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/5281381/1-pass/"]
             },
             {
                 "que": "3168. Minimum Number of Chairs in a Waiting Room",
