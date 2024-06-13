@@ -2086,6 +2086,78 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "804. Unique Morse Code Words",
+                "links": ["https://leetcode.com/problems/unique-morse-code-words/solutions/5304445/1-pass/"]
+            },
+            {
+                "que": "944. Delete Columns to Make Sorted",
+                "links": ["https://leetcode.com/problems/delete-columns-to-make-sorted/solutions/5281454/1-pass-constant-space/"]
+            },
+            {
+                "que": "2278. Percentage of Letter in String",
+                "links": ["https://leetcode.com/problems/percentage-of-letter-in-string/solutions/5281429/1-pass-constant-space/"]
+            },
+            {
+                "que": "1704. Determine if String Halves Are Alike",
+                "links": ["https://leetcode.com/problems/determine-if-string-halves-are-alike/solutions/5281421/1-pass-constant-space/"]
+            },
+            {
+                "que": "1309. Decrypt String from Alphabet to Integer Mapping",
+                "links": ["https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/5281381/1-pass/"]
+            },
+            {
+                "que": "3168. Minimum Number of Chairs in a Waiting Room",
+                "links": ["https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/5281285/1-pass-constant-space/"]
+            },
+            {
+                "que": "3019. Number of Changing Keys",
+                "links": ["https://leetcode.com/problems/number-of-changing-keys/solutions/5281273/1-pass-constant-space/"]
+            },
+            {
+                "que": "884. Uncommon Words from Two Sentences",
+                "links": ["https://leetcode.com/problems/uncommon-words-from-two-sentences/solutions/5280998/hashmap/"]
+            },
+            {
+                "que": "1657. Determine if Two Strings Are Close",
+                "links": ["https://leetcode.com/problems/determine-if-two-strings-are-close/solutions/5213279/1-pass-o-1-space/"]
+            },
+            {
+                "que": "859. Buddy Strings",
+                "links": ["https://leetcode.com/problems/buddy-strings/solutions/5213191/1-pass-o-1-space/"]
+            },
+            {
+                "que": "796. Rotate String",
+                "links": ["https://leetcode.com/problems/rotate-string/solutions/5213155/1-line/"]
+            },
+            {
                 "que": "917. Reverse Only Letters",
                 "links": ["https://leetcode.com/problems/reverse-only-letters/solutions/5208469/two-pointers/"]
             },
@@ -2574,6 +2646,34 @@ const data = [
                 "links": []
             },
             {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "1759. Count Number of Homogenous Substrings",
+                "links": ["https://leetcode.com/problems/count-number-of-homogenous-substrings/solutions/5281348/sliding-window-constant-space/"]
+            },
+            {
+                "que": "1446. Consecutive Characters",
+                "links": ["https://leetcode.com/problems/consecutive-characters/solutions/5281293/sliding-window-constant-space/"]
+            },
+            {
                 "que": "1423. Maximum Points You Can Obtain from Cards",
                 "links": ["https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/solutions/5051880/sliding-window/"]
             },
@@ -2701,11 +2801,31 @@ const data = [
         "collections": [
             {
                 "que": "",
-                "linkes": [""]
+                "linkes": []
             },
             {
                 "que": "",
-                "linkes": [""]
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "",
+                "linkes": []
+            },
+            {
+                "que": "697. Degree of an Array",
+                "linkes": ["https://leetcode.com/problems/degree-of-an-array/solutions/5281054/1-pass-hashmap/"]
             },
             {
                 "que": "1460. Make Two Arrays Equal by Reversing Subarrays",
