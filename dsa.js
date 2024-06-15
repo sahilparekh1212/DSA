@@ -2110,12 +2110,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1945. Sum of Digits of String After Convert",
+                "links": ["https://leetcode.com/problems/sum-of-digits-of-string-after-convert/solutions/5318628/string/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2833. Furthest Point From Origin",
+                "links": ["https://leetcode.com/problems/furthest-point-from-origin/solutions/5318492/1-pass-o-1-space/"]
             },
             {
                 "que": "3174. Clear Digits",
