@@ -1508,8 +1508,8 @@ const data = [
         ],
         "array": [
             {
-                "que": "",
-                "links": []
+                "que": "1370. Increasing Decreasing String",
+                "links": ["https://leetcode.com/problems/increasing-decreasing-string/solutions/5318213/o-1-space-using-array/"]
             },
             {
                 "que": "896. Monotonic Array",
@@ -2106,8 +2106,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "3174. Clear Digits",
+                "links": ["https://leetcode.com/problems/clear-digits/solutions/5318258/o-1-space-using-array/"]
             },
             {
                 "que": "942. DI String Match",
