@@ -1492,21 +1492,33 @@ const data = [
             {
                 "que": "164. Maximum Gap",
                 "links": ["https://leetcode.com/problems/maximum-gap/solutions/4472303/2-java-solutions-sort-maxheap/"]
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "array": [
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "806. Number of Lines To Write String",
+                "links": ["https://leetcode.com/problems/number-of-lines-to-write-string/solutions/5318408/o-1-space/"]
+            },
             {
                 "que": "1370. Increasing Decreasing String",
                 "links": ["https://leetcode.com/problems/increasing-decreasing-string/solutions/5318213/o-1-space-using-array/"]
