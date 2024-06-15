@@ -2820,8 +2820,8 @@ const data = [
                 "linkes": []
             },
             {
-                "que": "",
-                "linkes": []
+                "que": "2506. Count Pairs Of Similar Strings",
+                "linkes": ["https://leetcode.com/problems/count-pairs-of-similar-strings/solutions/5318358/o-1-space-using-hashmap/"]
             },
             {
                 "que": "697. Degree of an Array",
