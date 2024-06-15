@@ -2106,8 +2106,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2490. Circular Sentence",
+                "links": ["https://leetcode.com/problems/circular-sentence/solutions/5319046/1-pass-o-1-space/"]
             },
             {
                 "que": "1945. Sum of Digits of String After Convert",
