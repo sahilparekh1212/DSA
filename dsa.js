@@ -1492,24 +1492,36 @@ const data = [
             {
                 "que": "164. Maximum Gap",
                 "links": ["https://leetcode.com/problems/maximum-gap/solutions/4472303/2-java-solutions-sort-maxheap/"]
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
-            },
-            {
-                "que": "",
-                "links": []
             }
         ],
         "array": [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "806. Number of Lines To Write String",
+                "links": ["https://leetcode.com/problems/number-of-lines-to-write-string/solutions/5318408/o-1-space/"]
+            },
+            {
+                "que": "1370. Increasing Decreasing String",
+                "links": ["https://leetcode.com/problems/increasing-decreasing-string/solutions/5318213/o-1-space-using-array/"]
             },
             {
                 "que": "896. Monotonic Array",
@@ -2086,32 +2098,32 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1736. Latest Time by Replacing Hidden Digits",
+                "links": ["https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/solutions/5319366/o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "953. Verifying an Alien Dictionary",
+                "links": ["https://leetcode.com/problems/verifying-an-alien-dictionary/solutions/5319147/o-1-space-2-pointer/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2490. Circular Sentence",
+                "links": ["https://leetcode.com/problems/circular-sentence/solutions/5319046/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1945. Sum of Digits of String After Convert",
+                "links": ["https://leetcode.com/problems/sum-of-digits-of-string-after-convert/solutions/5318628/string/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "2833. Furthest Point From Origin",
+                "links": ["https://leetcode.com/problems/furthest-point-from-origin/solutions/5318492/1-pass-o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "3174. Clear Digits",
+                "links": ["https://leetcode.com/problems/clear-digits/solutions/5318258/o-1-space-using-array/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "942. DI String Match",
+                "links": ["https://leetcode.com/problems/di-string-match/solutions/5318123/1-pass/"]
             },
             {
                 "que": "804. Unique Morse Code Words",
@@ -2662,8 +2674,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2379. Minimum Recolors to Get K Consecutive Black Blocks",
+                "links": ["https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/solutions/5319209/sliding-window/"]
             },
             {
                 "que": "1759. Count Number of Homogenous Substrings",
@@ -2816,12 +2828,12 @@ const data = [
                 "linkes": []
             },
             {
-                "que": "",
-                "linkes": []
+                "que": "599. Minimum Index Sum of Two Lists",
+                "linkes": ["https://leetcode.com/problems/minimum-index-sum-of-two-lists/solutions/5319177/hashmap/"]
             },
             {
-                "que": "",
-                "linkes": []
+                "que": "2506. Count Pairs Of Similar Strings",
+                "linkes": ["https://leetcode.com/problems/count-pairs-of-similar-strings/solutions/5318358/o-1-space-using-hashmap/"]
             },
             {
                 "que": "697. Degree of an Array",
