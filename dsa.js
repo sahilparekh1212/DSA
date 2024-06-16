@@ -2098,12 +2098,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1736. Latest Time by Replacing Hidden Digits",
+                "links": ["https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/solutions/5319366/o-1-space/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "953. Verifying an Alien Dictionary",
+                "links": ["https://leetcode.com/problems/verifying-an-alien-dictionary/solutions/5319147/o-1-space-2-pointer/"]
             },
             {
                 "que": "2490. Circular Sentence",
@@ -2674,8 +2674,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "2379. Minimum Recolors to Get K Consecutive Black Blocks",
+                "links": ["https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/solutions/5319209/sliding-window/"]
             },
             {
                 "que": "1759. Count Number of Homogenous Substrings",
@@ -2828,8 +2828,8 @@ const data = [
                 "linkes": []
             },
             {
-                "que": "",
-                "linkes": []
+                "que": "599. Minimum Index Sum of Two Lists",
+                "linkes": ["https://leetcode.com/problems/minimum-index-sum-of-two-lists/solutions/5319177/hashmap/"]
             },
             {
                 "que": "2506. Count Pairs Of Similar Strings",
