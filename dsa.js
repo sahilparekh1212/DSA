@@ -2094,8 +2094,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1592. Rearrange Spaces Between Words",
+                "links": ["https://leetcode.com/problems/rearrange-spaces-between-words/solutions/5324411/using-list/"]
             },
             {
                 "que": "1736. Latest Time by Replacing Hidden Digits",
@@ -2628,13 +2628,49 @@ const data = [
             {
                 "que": "",
                 "links": []
+            }
+        ],
+        "bitManipulation": [
+            {
+                "que": "",
+                "links": []
             },
             {
                 "que": "",
                 "links": []
-            }
-        ],
-        "bitManipulation": [
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "",
+                "links": []
+            },
+            {
+                "que": "693. Binary Number with Alternating Bits",
+                "linkes": ["https://leetcode.com/problems/binary-number-with-alternating-bits/solutions/5324192/o-1-space/"]
+            },
+            {
+                "que": "762. Prime Number of Set Bits in Binary Representation",
+                "linkes": ["https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/solutions/5324169/o-1-space/"]
+            },
+            {
+                "que": "1318. Minimum Flips to Make a OR b Equal to c",
+                "links": ["https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/solutions/5324117/check-bit/"]
+            },
+            {
+                "que": "2220. Minimum Bit Flips to Convert Number",
+                "links": ["https://leetcode.com/problems/minimum-bit-flips-to-convert-number/solutions/5324057/1-pass-o-1-space/"]
+            },
             {
                 "que": "2980. Check if Bitwise OR Has Trailing Zeros",
                 "links": ["https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/solutions/5150070/o-1-space-bit-manipulation/"]
@@ -2816,16 +2852,8 @@ const data = [
                 "linkes": []
             },
             {
-                "que": "",
-                "linkes": []
-            },
-            {
-                "que": "",
-                "linkes": []
-            },
-            {
-                "que": "",
-                "linkes": []
+                "que": "2032. Two Out of Three",
+                "linkes": ["https://leetcode.com/problems/two-out-of-three/solutions/5324145/1-pass-using-set/"]
             },
             {
                 "que": "599. Minimum Index Sum of Two Lists",
