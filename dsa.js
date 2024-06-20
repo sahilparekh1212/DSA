@@ -1512,8 +1512,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1275. Find Winner on a Tic Tac Toe Game",
+                "links": ["https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/solutions/5339311/using-set-and-2d-array/"]
             },
             {
                 "que": "806. Number of Lines To Write String",
