@@ -1508,12 +1508,12 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1854. Maximum Population Year",
+                "links": ["https://leetcode.com/problems/maximum-population-year/solutions/6148954/o1-space-by-sahilparekh1212-9dwm/"]
             },
             {
-                "que": "",
-                "links": []
+                "que": "1275. Find Winner on a Tic Tac Toe Game",
+                "links": ["https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/solutions/5339311/using-set-and-2d-array/"]
             },
             {
                 "que": "806. Number of Lines To Write String",
