@@ -1508,8 +1508,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "1854. Maximum Population Year",
+                "links": ["https://leetcode.com/problems/maximum-population-year/solutions/6148954/o1-space-by-sahilparekh1212-9dwm/"]
             },
             {
                 "que": "1275. Find Winner on a Tic Tac Toe Game",
