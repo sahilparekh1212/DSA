@@ -1508,10 +1508,6 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
-            },
-            {
                 "que": "1603. Design Parking System",
                 "links": ["https://leetcode.com/problems/design-parking-system/solutions/6149421/o1-space-and-time-by-sahilparekh1212-d5ud/"]
             },
@@ -2100,6 +2096,10 @@ const data = [
             {
                 "que": "",
                 "links": []
+            },
+            {
+                "que": "1154. Day of the Year",
+                "links": ["https://leetcode.com/problems/day-of-the-year/solutions/6152418/o1-time-and-space-by-sahilparekh1212-rpwu/"]
             },
             {
                 "que": "1592. Rearrange Spaces Between Words",
