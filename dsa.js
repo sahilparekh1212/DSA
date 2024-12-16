@@ -2856,8 +2856,8 @@ const data = [
         ],
         "collections": [
             {
-                "que": "",
-                "linkes": []
+                "que": "2605. Form Smallest Number From Two Digit Arrays",
+                "linkes": ["https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/solutions/6150911/set-by-sahilparekh1212-1hnq/"]
             },
             {
                 "que": "2032. Two Out of Three",
