@@ -2856,6 +2856,10 @@ const data = [
         ],
         "collections": [
             {
+                "que": "2784. Check if Array is Good",
+                "links": ["https://leetcode.com/problems/check-if-array-is-good/solutions/6156266/map-by-sahilparekh1212-ag8r/"]
+            },
+            {
                 "que": "2605. Form Smallest Number From Two Digit Arrays",
                 "linkes": ["https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/solutions/6150911/set-by-sahilparekh1212-1hnq/"]
             },
