@@ -2480,8 +2480,8 @@ const data = [
                 "links": []
             },
             {
-                "que": "",
-                "links": []
+                "que": "3099. Harshad Number",
+                "links": ["https://leetcode.com/problems/harshad-number/solutions/6156633/o1-time-and-space-by-sahilparekh1212-fpor/"]
             },
             {
                 "que": "860. Lemonade Change",
